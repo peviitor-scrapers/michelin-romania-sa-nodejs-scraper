@@ -14,13 +14,13 @@
 
 ## Current Job Listings (15)
 
-_Generated: 2026-07-31T15:30:34.899Z_
+_Generated: 2026-07-31T15:37:32.135Z_
 
 ### Account Manager B2B OFF
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Account-Manager-B2B-OFF_R-2026023310-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Account-Manager-B2B-OFF_R-2026023310-1)
 - **Work Mode:** on-site
-- **Location:** România
+- **Location:** Voluntari
 - **Status:** scraped
 
 ### Payroll Analyst with French
