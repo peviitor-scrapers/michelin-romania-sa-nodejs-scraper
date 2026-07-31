@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.0] - 2026-07-31
+
+### Fixed
+- Protect stale-job deletion against data loss: when 0 jobs are scraped (Workday rate-limit or empty source), deletion is skipped entirely (#4)
+- Map embedded known cities in `transformJobsForSOLR` with word-boundary detection — `EUROMASTER PITESTI` now resolves to `Pitești` instead of falling back to `România` (#4)
+- Canonicalize all spelling variants of a city (ASCII/diacritic, hyphen/space) to a single canonical form in `transformJobsForSOLR`
+
+### Changed
+- Docs aligned with reality: stale-deletion behavior, `--url` CLI flag, opencode, project structure tree
+
 ## [1.0.0] - 2026-07-31
 
 ### Added

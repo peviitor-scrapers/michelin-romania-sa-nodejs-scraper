@@ -39,7 +39,7 @@ When working on this scraper:
 
 - **Node.js & JavaScript** - For scraping and data extraction
 - **Peviitor API** - For data storage and retrieval (api.peviitor.ro)
-- **Claude Code** - For development
+- **opencode** - For development
 
 ## Workflow Steps
 
@@ -65,7 +65,7 @@ When working on this scraper:
 node scraper/index.js
 ```
 
-> **Important**: Scraper does NOT delete jobs from other sources (ANOFM, etc). It only upserts Workday Careers jobs. Existing jobs are preserved.
+> **Important**: After a successful scrape, jobs that exist in the API but are no longer on the site are **deleted as stale** (this includes ANOFM jobs no longer returned). To prevent data loss on transient failures, stale deletion is **skipped entirely when 0 jobs are scraped** (Workday rate-limit or empty source).
 
 ## Full Workflow (automatic)
 
@@ -76,7 +76,7 @@ When running `node scraper/index.js`, the following steps happen automatically:
 3. **Scrape jobs** - Extract jobs from Workday cxs API (Romania only)
 4. **Transform for API** - Fix locations (only Romanian cities), normalize fields
 5. **Upsert to API** - Add/update jobs (API handles duplicates by URL)
-6. **Delete stale jobs** - Remove jobs in API but no longer on the website
+6. **Delete stale jobs** - Remove jobs in API but no longer on the website (skipped when 0 jobs scraped, to protect against rate-limit data loss)
 7. **Show Summary** - Log job counts
 
 ## Workflow Flowchart
@@ -105,6 +105,7 @@ scrape Workday cxs API (searchText "Romania")
     ▼
 transformJobsForSOLR()
     ├── Filter: keep only Romanian locations
+    ├── Detect known city embedded in text (word-boundary) → canonical form (e.g. "EUROMASTER PITESTI" → "Pitești")
     ├── Fallback: "România" for unknown
     └── Format: lowercase tags, uppercase company
     │
@@ -195,7 +196,7 @@ node scraper/demoanaf.js search <brand>
 node scraper/validate-jobs.js <CIF>
 
 # Validate a single job URL
-node scraper/validate-jobs.js url <url>
+node scraper/validate-jobs.js --url <url>
 
 # Delete expired jobs from SOLR by CIF
 node scraper/validate-jobs.js <CIF> --delete
@@ -220,8 +221,10 @@ All temporary/scratch files must be placed in `tmp/` inside the project root (ne
 
 ## Technical Debt / Completed
 
+Checklist inherited from the [EPAM template](https://github.com/sebiboga/epam-systems-international-srl-nodejs-scraper) (issue refs `#2-#5` are from that template's issue tracker, not this repo):
+
 - [x] Extract demoanaf.js to separate module (#2)
 - [x] Write Unit Tests for all modules (#3)
 - [x] Write Integration Tests in separate folder (#4)
 - [x] Write E2E automated tests in separate folder (#5)
-- [ ] Write Unit/Component/E2E tests for index.js
+- [x] Write Unit/Component/E2E tests for index.js

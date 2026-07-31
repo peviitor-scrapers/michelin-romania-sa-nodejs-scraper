@@ -65,6 +65,50 @@ describe('index.js Component Tests', () => {
       const result = index.transformJobsForSOLR({ jobs: [] });
       expect(result.jobs).toEqual([]);
     });
+
+    it('should map embedded known city to canonical form', () => {
+      const payload = {
+        jobs: [
+          { url: 'https://test.com/1', title: 'Tehnician montare', location: ['EUROMASTER PITESTI'] },
+          { url: 'https://test.com/2', title: 'Job 2', location: ['MICHELIN VOLUNTARI CAMPUS'] },
+          { url: 'https://test.com/3', title: 'Job 3', location: ['Cluj Napoca'] }
+        ]
+      };
+
+      const result = index.transformJobsForSOLR(payload);
+
+      expect(result.jobs[0].location).toEqual(['Pitești']);
+      expect(result.jobs[1].location).toEqual(['Voluntari']);
+      expect(result.jobs[2].location).toEqual(['Cluj-Napoca']);
+    });
+
+    it('should canonicalize exact lowercase city matches', () => {
+      const payload = {
+        jobs: [
+          { url: 'https://test.com/1', title: 'Job 1', location: ['pitesti'] },
+          { url: 'https://test.com/2', title: 'Job 2', location: ['bucuresti'] }
+        ]
+      };
+
+      const result = index.transformJobsForSOLR(payload);
+
+      expect(result.jobs[0].location).toEqual(['Pitești']);
+      expect(result.jobs[1].location).toEqual(['București']);
+    });
+
+    it('should not match city as substring of another word (boundary guard)', () => {
+      const payload = {
+        jobs: [
+          { url: 'https://test.com/1', title: 'Job 1', location: ['Devasag'] },
+          { url: 'https://test.com/2', title: 'Job 2', location: ['Aradians'] }
+        ]
+      };
+
+      const result = index.transformJobsForSOLR(payload);
+
+      expect(result.jobs[0].location).toEqual(['România']);
+      expect(result.jobs[1].location).toEqual(['România']);
+    });
   });
 
   describe('mapToJobModel', () => {

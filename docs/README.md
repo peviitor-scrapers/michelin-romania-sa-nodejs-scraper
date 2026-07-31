@@ -42,6 +42,46 @@ Scraper-ul folosește API-ul cxs (POST JSON) cu paginare limitată și un singur
 
 Pentru analiza completă, vezi [ai/ROBOTS.md](../ai/ROBOTS.md).
 
+## Structura proiectului
+
+```
+michelin-romania-sa-nodejs-scraper/
+├── .github/workflows/
+│   ├── automation-testing.yml            # teste automate la push/PR + validare job-uri
+│   ├── automation-template-sync-check.yml # verificare sincronizare cu template-ul EPAM
+│   ├── job-deep-validate.yml             # validare deep manuală (Playwright)
+│   ├── job-recovery-from-disaster.yml    # recuperare manuală (re-scrape + restore docs)
+│   └── job-seeker-ro-spider.yml          # scrape zilnic (6 AM UTC)
+├── ai/                                   # documentație pentru agenți AI (AGENTS.md, INSTRUCTIONS.md, etc.)
+├── docs/
+│   ├── README.md                         # acest fișier
+│   ├── company.json                      # copie statică a config-ului companiei (GitHub Pages)
+│   └── jobs.md                           # job-urile curente, generat după fiecare scrape
+├── scraper/
+│   ├── config/
+│   │   ├── company.json                  # sursa de adevăr: identitatea companiei
+│   │   └── scraper.json                  # configurări API Workday
+│   ├── anaf.js                           # ANAF + CUIScan + CUIFirma
+│   ├── api.js                            # operații API Peviitor (query/upsert/delete)
+│   ├── company.js                        # validare companie + cache
+│   ├── demoanaf.js                       # CLI wrapper pentru anaf.js
+│   ├── index.js                          # entry point — workflow complet
+│   ├── job-validator.js                  # primitive de validare URL
+│   ├── markdown-generator.js             # generează docs/jobs.md
+│   └── validate-jobs.js                  # validator manual (content-aware)
+├── tests/
+│   ├── unit/                             # teste unitare
+│   ├── integration/                      # teste integrare (ANAF + Peviitor)
+│   ├── e2e/                              # teste end-to-end
+│   ├── consistency/                      # teste consistență repo/config
+│   └── validate-michelin-jobs.js         # validator Michelin specific (folosit de CI)
+├── tmp/                                  # artefacte runtime (gitignored)
+├── CHANGELOG.md
+├── LICENSE
+├── package.json
+└── README.md
+```
+
 ## Testare
 
 ```bash

@@ -229,7 +229,23 @@ function transformJobsForSOLR(payload) {
     'Chitila', 'Mogoșoaia', 'Mogosoaia', 'Otopeni'
   ];
 
-  const citySet = new Set(romanianCities.map(c => c.toLowerCase()));
+  const cityIdentity = (s) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[-_\s]+/g, ' ').trim();
+  const cityCanonical = new Map();
+  for (const c of romanianCities) {
+    const key = cityIdentity(c);
+    if (!cityCanonical.has(key)) cityCanonical.set(key, c);
+  }
+  const cityKeys = [...cityCanonical.keys()].sort((a, b) => b.length - a.length);
+
+  const matchKnownCity = (loc) => {
+    const lower = loc.toLowerCase();
+    for (const key of cityKeys) {
+      if (new RegExp(`(^|[^a-z])${key}([^a-z]|$)`).test(lower)) {
+        return cityCanonical.get(key);
+      }
+    }
+    return null;
+  };
 
   const normalizeWorkmode = (wm) => {
     if (!wm) return undefined;
@@ -243,11 +259,18 @@ function transformJobsForSOLR(payload) {
     ...payload,
     company: payload.company?.toUpperCase(),
     jobs: payload.jobs.map(job => {
-      const validLocations = (job.location || []).filter(loc => {
-        const lower = loc.toLowerCase().trim();
-        if (lower === 'romania' || lower === 'românia') return true;
-        return citySet.has(lower);
-      }).map(loc => loc.toLowerCase() === 'romania' ? 'România' : loc);
+      const validLocations = (job.location || []).reduce((acc, loc) => {
+        const identity = cityIdentity(loc);
+        if (identity === 'romania') {
+          acc.push('România');
+        } else if (cityCanonical.has(identity)) {
+          acc.push(cityCanonical.get(identity));
+        } else {
+          const known = matchKnownCity(loc);
+          if (known) acc.push(known);
+        }
+        return acc;
+      }, []);
 
       return {
         ...job,
@@ -356,7 +379,9 @@ async function main() {
     const scrapedUrls = new Set(transformedPayload.jobs.map(job => job.url));
     const staleUrls = [...existingUrls].filter(url => !scrapedUrls.has(url));
 
-    if (staleUrls.length > 0) {
+    if (scrapedUrls.size === 0) {
+      console.log("\n⚠️ 0 jobs scraped (Workday rate-limit or empty source) — skipping stale deletion to avoid data loss");
+    } else if (staleUrls.length > 0) {
       console.log(`\n=== Step 4.5: Delete ${staleUrls.length} stale job(s) ===`);
       let deletedCount = 0;
       for (const url of staleUrls) {

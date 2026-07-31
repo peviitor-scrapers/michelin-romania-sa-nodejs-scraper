@@ -19,6 +19,7 @@
 |------|-------------|
 | `scraper/config/company.json` | **Single source of truth for company identity.** All scraper code, CI workflows, and the static HTML read from this file. To derive a scraper for a different company, this is the primary file to edit. `scraperFile` must be the GitHub Actions workflow URL (not raw). |
 | `scraper/config/company.js` | ESM wrapper that imports and exposes `scraper/config/company.json` to Node code |
+| `scraper/config/scraper.json` | Workday API configuration: `apiBase`, `jobSiteBase`, `apiSearch` (`Romania`), `apiPageSize`. Read via `scraper/config/scraper.js`. |
 
 ## Test Files — tests/
 
@@ -53,10 +54,10 @@
 | `ISSUES.md` | Issue tracking conventions |
 | `PUBLIC.md` | Notes on public visibility and data policies |
 | `ROBOTS.md` | robots.txt analysis and scraping policy for Michelin Workday careers |
-| `SECURITY.md` | Security policy and vulnerability reporting |
 | `TOPICS.md` | Repository topics documentation |
 | `UPDATE-REPO-ABOUT.md` | Instructions for updating repo description/about |
 | `VERIFY.md` | Step-by-step verification checklist after changes |
+| `docs/README.md` | Public README — project purpose, APIs used, test commands, project structure |
 
 ## Configuration Files
 
@@ -73,6 +74,7 @@
 | `.github/workflows/job-seeker-ro-spider.yml` | Daily scraping workflow (6 AM UTC) |
 | `.github/workflows/automation-testing.yml` | Automated tests on every push/PR |
 | `.github/workflows/job-deep-validate.yml` | Manual deep validation via Playwright (browser mode) |
+| `.github/workflows/job-recovery-from-disaster.yml` | Manual recovery workflow — rebuilds config, validates ANAF, re-scrapes, restores docs/jobs.md |
 | `.github/workflows/automation-template-sync-check.yml` | Weekly check that derived scrapers are up to date with this template |
 | `CODE_OF_CONDUCT.md` | Community code of conduct (Contributor Covenant 2.0) |
 
