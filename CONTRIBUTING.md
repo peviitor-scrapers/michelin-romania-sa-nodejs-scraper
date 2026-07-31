@@ -2,11 +2,11 @@
 
 Thank you for your interest in contributing!
 
-## 📐 This Repo Is the Template
+## 🌱 This Repo Is a Derived Scraper
 
-This repo is the **reference implementation** for all Node.js scrapers in the peviitor.ro ecosystem. Other scrapers are derived from it.
+This repo is a **derived scraper** for MICHELIN ROMANIA S.A. (CIF 13663684), created from the [epam-systems-international-srl-nodejs-scraper](https://github.com/sebiboga/epam-systems-international-srl-nodejs-scraper) template.
 
-For instructions on deriving a new scraper from this template, see the [AI-DERIVATION-GUIDE.md](AI-DERIVATION-GUIDE.md). The AI-DERIVATION-GUIDE.md is the consolidated playbook covering every step plus all known pitfalls from past derivations.
+For instructions on deriving a new scraper, see the [AI-DERIVATION-GUIDE.md](https://github.com/sebiboga/epam-systems-international-srl-nodejs-scraper/blob/main/ai/AI-DERIVATION-GUIDE.md) in the EPAM template repo.
 
 ## Development Setup
 
@@ -17,7 +17,7 @@ npm test
 
 ## Reporting Issues
 
-Open a [GitHub Issue](https://github.com/sebiboga/epam-systems-international-srl-nodejs-scraper/issues) with:
+Open a [GitHub Issue](https://github.com/sebiboga/michelin-romania-sa-nodejs-scraper/issues) with:
 - Clear description of the problem
 - Steps to reproduce
 - Expected vs actual behavior

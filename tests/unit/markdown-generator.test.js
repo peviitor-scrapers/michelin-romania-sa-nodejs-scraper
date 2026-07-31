@@ -1,22 +1,22 @@
 import { generateJobsMarkdown } from "../../scraper/markdown-generator.js";
 
 const baseCompany = {
-  id: "33159615",
-  company: "EPAM SYSTEMS INTERNATIONAL SRL",
-  brand: "EPAM",
+  id: "13663684",
+  company: "MICHELIN ROMANIA S.A.",
+  brand: "MICHELIN",
   status: "activ",
-  location: ["București"],
-  website: ["https://www.epam.com"],
-  career: ["https://careers.epam.com"],
-  lastScraped: "2026-06-17"
+  location: ["Voluntari"],
+  website: ["https://www.michelin.ro"],
+  career: ["https://michelinhr.wd3.myworkdayjobs.com/Michelin"],
+  lastScraped: "2026-07-31"
 };
 
 const baseJob = {
-  url: "https://careers.epam.com/en/vacancy/123_en",
-  title: "Senior Node.js Developer",
+  url: "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Payroll-Analyst-with-French_R-2026025111",
+  title: "Payroll Analyst with French",
   workmode: "hybrid",
-  location: ["București"],
-  tags: ["node.js", "javascript"],
+  location: ["Voluntari"],
+  tags: ["payroll"],
   status: "scraped"
 };
 
@@ -24,17 +24,17 @@ describe("generateJobsMarkdown", () => {
   describe("company section", () => {
     it("includes company name as h1", () => {
       const md = generateJobsMarkdown(baseCompany, []);
-      expect(md).toContain("# EPAM SYSTEMS INTERNATIONAL SRL");
+      expect(md).toContain("# MICHELIN ROMANIA S.A.");
     });
 
     it("includes CIF", () => {
       const md = generateJobsMarkdown(baseCompany, []);
-      expect(md).toContain("33159615");
+      expect(md).toContain("13663684");
     });
 
     it("includes brand", () => {
       const md = generateJobsMarkdown(baseCompany, []);
-      expect(md).toContain("EPAM");
+      expect(md).toContain("MICHELIN");
     });
 
     it("includes status", () => {
@@ -44,23 +44,23 @@ describe("generateJobsMarkdown", () => {
 
     it("includes website as markdown link", () => {
       const md = generateJobsMarkdown(baseCompany, []);
-      expect(md).toContain("[https://www.epam.com](https://www.epam.com)");
+      expect(md).toContain("[https://www.michelin.ro](https://www.michelin.ro)");
     });
 
     it("includes career page as markdown link", () => {
       const md = generateJobsMarkdown(baseCompany, []);
-      expect(md).toContain("[https://careers.epam.com](https://careers.epam.com)");
+      expect(md).toContain("[https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin)");
     });
 
     it("includes lastScraped date", () => {
       const md = generateJobsMarkdown(baseCompany, []);
-      expect(md).toContain("2026-06-17");
+      expect(md).toContain("2026-07-31");
     });
 
     it("omits optional fields when not present", () => {
-      const minimal = { id: "33159615", company: "EPAM SYSTEMS INTERNATIONAL SRL" };
+      const minimal = { id: "13663684", company: "MICHELIN ROMANIA S.A." };
       const md = generateJobsMarkdown(minimal, []);
-      expect(md).toContain("# EPAM SYSTEMS INTERNATIONAL SRL");
+      expect(md).toContain("# MICHELIN ROMANIA S.A.");
       expect(md).not.toContain("Brand");
       expect(md).not.toContain("Last Scraped");
     });
@@ -79,12 +79,12 @@ describe("generateJobsMarkdown", () => {
 
     it("includes job title as h3", () => {
       const md = generateJobsMarkdown(baseCompany, [baseJob]);
-      expect(md).toContain("### Senior Node.js Developer");
+      expect(md).toContain("### Payroll Analyst with French");
     });
 
     it("includes job URL as markdown link", () => {
       const md = generateJobsMarkdown(baseCompany, [baseJob]);
-      expect(md).toContain("[https://careers.epam.com/en/vacancy/123_en]");
+      expect(md).toContain("[https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Payroll-Analyst-with-French_R-2026025111]");
     });
 
     it("includes workmode", () => {
@@ -94,12 +94,12 @@ describe("generateJobsMarkdown", () => {
 
     it("includes location", () => {
       const md = generateJobsMarkdown(baseCompany, [baseJob]);
-      expect(md).toContain("București");
+      expect(md).toContain("Voluntari");
     });
 
     it("includes tags", () => {
       const md = generateJobsMarkdown(baseCompany, [baseJob]);
-      expect(md).toContain("node.js, javascript");
+      expect(md).toContain("payroll");
     });
 
     it("includes status", () => {
@@ -108,15 +108,15 @@ describe("generateJobsMarkdown", () => {
     });
 
     it("renders multiple jobs", () => {
-      const job2 = { ...baseJob, title: "DevOps Engineer", url: "https://careers.epam.com/en/vacancy/456_en" };
+      const job2 = { ...baseJob, title: "Data Scientist", url: "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Data-Scientist_R-2026029359-1" };
       const md = generateJobsMarkdown(baseCompany, [baseJob, job2]);
-      expect(md).toContain("### Senior Node.js Developer");
-      expect(md).toContain("### DevOps Engineer");
+      expect(md).toContain("### Payroll Analyst with French");
+      expect(md).toContain("### Data Scientist");
       expect(md).toContain("## Current Job Listings (2)");
     });
 
     it("handles job with no optional fields", () => {
-      const minimal = { url: "https://careers.epam.com/en/vacancy/999_en", title: "QA Engineer" };
+      const minimal = { url: "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/DevOps_R-2026999999", title: "QA Engineer" };
       const md = generateJobsMarkdown(baseCompany, [minimal]);
       expect(md).toContain("### QA Engineer");
       expect(md).not.toContain("Work Mode");

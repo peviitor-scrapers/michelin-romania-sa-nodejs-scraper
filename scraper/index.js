@@ -9,10 +9,11 @@ import scraperConfig from "./config/scraper.js";
 
 const COMPANY_CIF = companyConfig.id;
 const JOB_BASE = scraperConfig.apiBase;
-const ROMANIA_COUNTRY_ID = scraperConfig.apiCountryId;
+const JOB_SITE_BASE = scraperConfig.jobSiteBase;
+const API_SEARCH = scraperConfig.apiSearch || "";
+const PAGE_SIZE = scraperConfig.apiPageSize || 20;
 
 const TIMEOUT = 10000;
-const PAGE_SIZE = 10;
 
 let COMPANY_NAME = null;
 
@@ -59,15 +60,33 @@ async function searchANOFM(cif) {
   return jobs;
 }
 
-async function fetchJobsPage(pageNum) {
-  const from = (pageNum - 1) * PAGE_SIZE;
-  const url = `${JOB_BASE}/api/jobs/v2/search/careers-i18n?from=${from}&lang=en&size=${PAGE_SIZE}&sortBy=relevance%3Brelocation%3Dasc&websiteLocale=en-us&facets=country%3D${ROMANIA_COUNTRY_ID}`;
+function normalizeRemoteType(remoteType) {
+  if (!remoteType) return undefined;
+  const lower = remoteType.toLowerCase();
+  if (lower.includes("remote")) return "remote";
+  if (lower.includes("site") || lower.includes("office")) return "on-site";
+  if (lower.includes("hybrid")) return "hybrid";
+  return undefined;
+}
 
-  const res = await fetch(url, {
+async function fetchJobsPage(pageNum) {
+  const offset = (pageNum - 1) * PAGE_SIZE;
+  const payload = {
+    appliedFacets: {},
+    limit: PAGE_SIZE,
+    offset,
+    searchText: API_SEARCH
+  };
+
+  const res = await fetch(`${JOB_BASE}/jobs`, {
+    method: "POST",
+    timeout: TIMEOUT,
     headers: {
-      "User-Agent": "job_seeker_ro_spider",
-      "Accept": "application/json"
-    }
+      "Content-Type": "application/json",
+      "Accept": "application/json",
+      "User-Agent": "job_seeker_ro_spider"
+    },
+    body: JSON.stringify(payload)
   });
 
   if (!res.ok) {
@@ -78,42 +97,45 @@ async function fetchJobsPage(pageNum) {
 }
 
 function parseApiJobs(apiData) {
-  const jobs = apiData.data?.jobs || [];
-  const total = apiData.data?.total || 0;
+  const postings = apiData.jobPostings || [];
+  const total = apiData.total || 0;
 
   return {
-    jobs: jobs.map(job => {
-      const vacancyType = job.vacancy_type || "Hybrid";
-      let workmode = "hybrid";
-      if (vacancyType.toLowerCase().includes("remote")) workmode = "remote";
-      else if (vacancyType.toLowerCase().includes("office")) workmode = "on-site";
+    jobs: postings.map(job => {
+      const externalPath = job.externalPath || "";
+      const url = externalPath.startsWith("http")
+        ? externalPath
+        : `${JOB_SITE_BASE}${externalPath}`;
 
-      const location = [];
-      if (job.city && job.city.length > 0) {
-        for (const c of job.city) {
-          if (c.name) location.push(c.name);
+      const location = (job.locationsText || "")
+        .split(",")
+        .map(loc => loc.trim())
+        .filter(Boolean);
+
+      const pathLocation = extractPathLocation(externalPath);
+      if (!location.length || location.every(l => /^\d+\s+Locations?$/.test(l))) {
+        if (pathLocation) {
+          location.push(pathLocation);
         }
-      } else if (job.country?.[0]?.name) {
-        location.push(job.country[0].name);
       }
-
-      const uid = job.uid || "";
-      const seoUrl = job.seo?.url || `/en/vacancy/${uid}_en`;
-      const url = seoUrl.startsWith('http') ? seoUrl : `${JOB_BASE}${seoUrl}`;
-
-      const tags = (job.skills || []).map(s => s.toLowerCase());
 
       return {
         url,
-        title: job.name,
-        uid: job.uid,
-        workmode,
-        location,
-        tags
+        title: job.title,
+        workmode: normalizeRemoteType(job.remoteType),
+        location
       };
     }),
     total
   };
+}
+
+function extractPathLocation(externalPath) {
+  if (!externalPath) return undefined;
+  const parts = externalPath.split("/").filter(Boolean);
+  const jobIdx = parts.findIndex(p => p.toLowerCase() === "job");
+  if (jobIdx === -1 || parts[jobIdx + 1] === undefined) return undefined;
+  return parts[jobIdx + 1].replace(/-/g, " ");
 }
 
 async function scrapeAllListings(testOnlyOnePage = false) {
@@ -279,7 +301,7 @@ async function main() {
 
     const rawJobs = await scrapeAllListings(testOnlyOnePage);
     const scrapedCount = rawJobs.length;
-    console.log(`Jobs scraped from EPAM Careers website: ${scrapedCount}`);
+    console.log(`Jobs scraped from Michelin Workday careers: ${scrapedCount}`);
 
     if (!testOnlyOnePage) {
       const anofmJobs = await searchANOFM(cif);
@@ -295,7 +317,7 @@ async function main() {
     const jobs = rawJobs.map(job => mapToJobModel(job, cif));
 
     const payload = {
-      source: "epam.com",
+      source: "michelinhr.wd3.myworkdayjobs.com",
       scrapedAt: new Date().toISOString(),
       company: COMPANY_NAME,
       cif: cif,
@@ -357,7 +379,7 @@ async function main() {
     const finalResult = await querySOLR(COMPANY_CIF);
     console.log(`\n=== SUMMARY ===`);
     console.log(`Jobs existing in SOLR before scrape: ${existingCount}`);
-    console.log(`Jobs scraped from EPAM website: ${scrapedCount}`);
+    console.log(`Jobs scraped from Michelin Workday careers: ${scrapedCount}`);
     console.log(`Stale jobs attempted: ${staleUrls.length}`);
     console.log(`Jobs in SOLR after scrape: ${finalResult.numFound}`);
     console.log(`====================`);

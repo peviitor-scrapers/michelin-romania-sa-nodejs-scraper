@@ -1,4 +1,6 @@
 {
-  "apiBase": "https://careers.epam.com",
-  "apiCountryId": "8150000000000001155"
+  "apiBase": "https://michelinhr.wd3.myworkdayjobs.com/wday/cxs/michelinhr/Michelin",
+  "jobSiteBase": "https://michelinhr.wd3.myworkdayjobs.com/Michelin",
+  "apiSearch": "Romania",
+  "apiPageSize": 20
 }

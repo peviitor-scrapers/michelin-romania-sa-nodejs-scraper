@@ -2,13 +2,12 @@ import { jest } from '@jest/globals';
 import fetch from 'node-fetch';
 
 const API_BASE = 'https://api.peviitor.ro/v1';
-const EPAM_CIF = '33159615';
 
 let HAS_API = false;
 
 async function checkApiAvailability() {
   try {
-    const res = await fetch(`${API_BASE}/scraper/jobs/?cif=${EPAM_CIF}&rows=1`, {
+    const res = await fetch(`${API_BASE}/scraper/jobs/?cif=${COMPANY_CIF}&rows=1`, {
       signal: AbortSignal.timeout(5000)
     });
     return res.ok || res.status === 400;
@@ -100,12 +99,12 @@ describe('Integration: API Workflow', () => {
     }, 60000);
 
     itIfAnaf('should use cached data when API fails (getCompanyFromANAFWithFallback)', async () => {
-      const cached = { cui: 33159615, name: COMPANY_NAME };
+      const cached = { cui: parseInt(COMPANY_CIF, 10), name: COMPANY_NAME };
 
       const data = await anaf.getCompanyFromANAFWithFallback(COMPANY_CIF, cached);
 
       expect(data).toBeDefined();
-      expect(data.cui).toBe(33159615);
+      expect(data.cui).toBe(parseInt(COMPANY_CIF, 10));
     }, 15000);
   });
 
@@ -174,7 +173,7 @@ describe('Integration: API Workflow', () => {
       const result = await api.querySOLR(COMPANY_CIF);
 
       if (result.numFound === 0) {
-        console.log('⚠️ No EPAM jobs in API — skipping job field assertions (scraper may not have run yet)');
+        console.log(`⚠️ No ${COMPANY_NAME} jobs in API — skipping job field assertions (scraper may not have run yet)`);
         return;
       }
 
@@ -231,12 +230,12 @@ describe('Integration: API Workflow', () => {
       const searchResults = await anaf.searchCompany(COMPANY_BRAND);
       expect(searchResults.length).toBeGreaterThan(0);
 
-      const epamCompany = searchResults.find(c =>
+      const matchCompany = searchResults.find(c =>
         c.cui.toString() === COMPANY_CIF && c.statusLabel === 'Funcțiune'
       );
-      expect(epamCompany).toBeDefined();
+      expect(matchCompany).toBeDefined();
 
-      const anafData = await anaf.getCompanyFromANAF(epamCompany.cui.toString());
+      const anafData = await anaf.getCompanyFromANAF(matchCompany.cui.toString());
       expect(anafData.name).toBe(COMPANY_NAME);
       expect(anafData.inactive).toBe(false);
     }, 30000);
@@ -258,7 +257,7 @@ describe('Integration: API Workflow', () => {
       expect(companyResult.cif).toBe(COMPANY_CIF);
 
       if (companyResult.existingJobsCount === 0) {
-        console.log('⚠️ No EPAM jobs in API — skipping job count assertion (scraper may not have run yet)');
+        console.log(`⚠️ No ${COMPANY_NAME} jobs in API — skipping job count assertion (scraper may not have run yet)`);
         return;
       }
       expect(companyResult.existingJobsCount).toBeGreaterThan(0);
