@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-08-02 |
+| Last Scraped | 2026-08-03 |
 
 ## Current Job Listings (15)
 
-_Generated: 2026-08-02T08:05:22.378Z_
+_Generated: 2026-08-03T09:23:25.581Z_
 
 ### Account Manager B2B OFF
 
@@ -86,13 +86,6 @@ _Generated: 2026-08-02T08:05:22.378Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Customer Success Manager with Hungarian
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
 ### Senior Master Data Analyst\_2 years contract
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Senior-Master-Data-Analyst-2-years-contract_R-2026025595](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Senior-Master-Data-Analyst-2-years-contract_R-2026025595)
@@ -103,6 +96,13 @@ _Generated: 2026-08-02T08:05:22.378Z_
 ### FIN, SWE, DEU, NDL Integrated Business Planning Manager  IBP
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Customer Success Manager with Hungarian
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
