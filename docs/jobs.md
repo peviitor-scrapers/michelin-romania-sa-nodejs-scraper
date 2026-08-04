@@ -10,16 +10,23 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-08-03 |
+| Last Scraped | 2026-08-04 |
 
-## Current Job Listings (15)
+## Current Job Listings (20)
 
-_Generated: 2026-08-03T09:23:25.581Z_
+_Generated: 2026-08-04T08:20:15.802Z_
 
 ### Account Manager B2B OFF
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Account-Manager-B2B-OFF_R-2026023310-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Account-Manager-B2B-OFF_R-2026023310-1)
 - **Work Mode:** on-site
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Customer Marketing Manager
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Marketing-Manager_R-2026028351-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Marketing-Manager_R-2026028351-1)
+- **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
 
@@ -86,13 +93,6 @@ _Generated: 2026-08-03T09:23:25.581Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Senior Master Data Analyst\_2 years contract
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Senior-Master-Data-Analyst-2-years-contract_R-2026025595](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Senior-Master-Data-Analyst-2-years-contract_R-2026025595)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
 ### FIN, SWE, DEU, NDL Integrated Business Planning Manager  IBP
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426)
@@ -100,7 +100,7 @@ _Generated: 2026-08-03T09:23:25.581Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Customer Success Manager with Hungarian
+### Customer Success Specialist with Hungarian
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084)
 - **Work Mode:** hybrid
@@ -118,4 +118,34 @@ _Generated: 2026-08-03T09:23:25.581Z_
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032)
 - **Location:** Pitești
+- **Status:** scraped
+
+### DOZATOR PRELUCRARE CAUCIUC
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3345996](https://mediere.anofm.ro/app/module/mediere/job/3345996)
+- **Location:** România
+- **Status:** scraped
+
+### PROFILATOR PRODUSE DIN CAUCIUC
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3345991](https://mediere.anofm.ro/app/module/mediere/job/3345991)
+- **Location:** România
+- **Status:** scraped
+
+### VOPSITOR INDUSTRIAL
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3345987](https://mediere.anofm.ro/app/module/mediere/job/3345987)
+- **Location:** România
+- **Status:** scraped
+
+### ELECTRICIAN DE ÎNTRETINERE SI REPARATII
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3345984](https://mediere.anofm.ro/app/module/mediere/job/3345984)
+- **Location:** România
+- **Status:** scraped
+
+### CONFECTIONER DE PRODUSE INDUSTRIALE DIN CAUCIUC
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3345978](https://mediere.anofm.ro/app/module/mediere/job/3345978)
+- **Location:** România
 - **Status:** scraped
