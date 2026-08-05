@@ -10,18 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-08-04 |
+| Last Scraped | 2026-08-05 |
 
 ## Current Job Listings (20)
 
-_Generated: 2026-08-04T08:20:15.802Z_
-
-### Account Manager B2B OFF
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Account-Manager-B2B-OFF_R-2026023310-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Account-Manager-B2B-OFF_R-2026023310-1)
-- **Work Mode:** on-site
-- **Location:** Voluntari
-- **Status:** scraped
+_Generated: 2026-08-05T08:17:07.721Z_
 
 ### Customer Marketing Manager
 
@@ -72,13 +65,6 @@ _Generated: 2026-08-04T08:20:15.802Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Continuous Improvement Manager
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Continuous-Improvement-Manager_R-2026025376](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Continuous-Improvement-Manager_R-2026025376)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
 ### Salesforce Developer
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Salesforce-Developer_R-2026005373](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Salesforce-Developer_R-2026005373)
@@ -100,6 +86,13 @@ _Generated: 2026-08-04T08:20:15.802Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
+### Continuous Improvement Manager
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Continuous-Improvement-Manager_R-2026025376](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Continuous-Improvement-Manager_R-2026025376)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
 ### Customer Success Specialist with Hungarian
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084)
@@ -110,6 +103,13 @@ _Generated: 2026-08-04T08:20:15.802Z_
 ### Data Scientist
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Data-Scientist_R-2026029359-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Data-Scientist_R-2026029359-1)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Travel & Expenses with French (1 year contract)
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Travel---Expenses-with-French--1-year-contract-_R-2026030299](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Travel---Expenses-with-French--1-year-contract-_R-2026030299)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
