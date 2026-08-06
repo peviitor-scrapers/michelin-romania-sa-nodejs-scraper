@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-08-05 |
+| Last Scraped | 2026-08-06 |
 
-## Current Job Listings (20)
+## Current Job Listings (18)
 
-_Generated: 2026-08-05T08:17:07.721Z_
+_Generated: 2026-08-06T08:15:10.783Z_
 
 ### Customer Marketing Manager
 
@@ -44,13 +44,6 @@ _Generated: 2026-08-05T08:17:07.721Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### HR Trainee with Spanish
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Benefits-Advisor-Trainee-with-Spanish_R-2026026279](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Benefits-Advisor-Trainee-with-Spanish_R-2026026279)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
 ### Power Apps Developer
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/CLM-Developer--Power-Apps_R-2025035521](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/CLM-Developer--Power-Apps_R-2025035521)
@@ -68,13 +61,6 @@ _Generated: 2026-08-05T08:17:07.721Z_
 ### Salesforce Developer
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Salesforce-Developer_R-2026005373](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Salesforce-Developer_R-2026005373)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Indirect Tax Team Manager – Europe Operations (SSC)
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Tax-Team-Manager_R-2026020156](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Tax-Team-Manager_R-2026020156)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
