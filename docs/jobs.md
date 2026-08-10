@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-08-09 |
+| Last Scraped | 2026-08-10 |
 
 ## Current Job Listings (17)
 
-_Generated: 2026-08-09T06:38:01.664Z_
+_Generated: 2026-08-10T07:10:01.780Z_
 
 ### Customer Marketing Manager
 
@@ -79,6 +79,13 @@ _Generated: 2026-08-09T06:38:01.664Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
+### FIN, SWE, DEU, NDL Integrated Business Planning Manager  IBP
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
 ### Customer Success Specialist with Hungarian
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084)
@@ -89,13 +96,6 @@ _Generated: 2026-08-09T06:38:01.664Z_
 ### Data Scientist
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Data-Scientist_R-2026029359-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Data-Scientist_R-2026029359-1)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### FIN, SWE, DEU, NDL Integrated Business Planning Manager  IBP
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
