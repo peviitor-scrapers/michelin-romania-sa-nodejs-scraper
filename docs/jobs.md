@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-08-10 |
+| Last Scraped | 2026-08-11 |
 
-## Current Job Listings (17)
+## Current Job Listings (13)
 
-_Generated: 2026-08-10T07:10:01.780Z_
+_Generated: 2026-08-11T06:48:05.464Z_
 
 ### Customer Marketing Manager
 
@@ -58,13 +58,6 @@ _Generated: 2026-08-10T07:10:01.780Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Continuous Improvement Manager
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Continuous-Improvement-Manager_R-2026025376](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Continuous-Improvement-Manager_R-2026025376)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
 ### Salesforce Developer
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Salesforce-Developer_R-2026005373](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Salesforce-Developer_R-2026005373)
@@ -104,24 +97,6 @@ _Generated: 2026-08-10T07:10:01.780Z_
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032)
 - **Location:** Pitești
-- **Status:** scraped
-
-### DOZATOR PRELUCRARE CAUCIUC
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3345996](https://mediere.anofm.ro/app/module/mediere/job/3345996)
-- **Location:** România
-- **Status:** scraped
-
-### PROFILATOR PRODUSE DIN CAUCIUC
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3345991](https://mediere.anofm.ro/app/module/mediere/job/3345991)
-- **Location:** România
-- **Status:** scraped
-
-### VOPSITOR INDUSTRIAL
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3345987](https://mediere.anofm.ro/app/module/mediere/job/3345987)
-- **Location:** România
 - **Status:** scraped
 
 ### ELECTRICIAN DE ÎNTRETINERE SI REPARATII
