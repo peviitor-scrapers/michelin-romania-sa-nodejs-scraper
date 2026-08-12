@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-08-11 |
+| Last Scraped | 2026-08-12 |
 
 ## Current Job Listings (13)
 
-_Generated: 2026-08-11T06:48:05.464Z_
+_Generated: 2026-08-12T07:08:07.282Z_
 
 ### Customer Marketing Manager
 
@@ -72,16 +72,16 @@ _Generated: 2026-08-11T06:48:05.464Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### FIN, SWE, DEU, NDL Integrated Business Planning Manager  IBP
+### Customer Success Specialist with Hungarian
 
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426)
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Customer Success Specialist with Hungarian
+### FIN, SWE, DEU, NDL Integrated Business Planning Manager  IBP
 
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084)
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
