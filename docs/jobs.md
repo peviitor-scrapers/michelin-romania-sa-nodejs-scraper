@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-08-12 |
+| Last Scraped | 2026-08-13 |
 
-## Current Job Listings (13)
+## Current Job Listings (12)
 
-_Generated: 2026-08-12T07:08:07.282Z_
+_Generated: 2026-08-13T07:12:37.887Z_
 
 ### Customer Marketing Manager
 
@@ -26,13 +26,6 @@ _Generated: 2026-08-12T07:08:07.282Z_
 ### Payroll Analyst with French
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Payroll-Analyst-with-French_R-2026025111](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Payroll-Analyst-with-French_R-2026025111)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Accounting Trainee (part-time)
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Accounting-Trainee--part-time-_R-2026023268](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Accounting-Trainee--part-time-_R-2026023268)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
@@ -72,16 +65,16 @@ _Generated: 2026-08-12T07:08:07.282Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Customer Success Specialist with Hungarian
+### FIN, SWE, DEU, NDL Integrated Business Planning Manager  IBP
 
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084)
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
 
-### FIN, SWE, DEU, NDL Integrated Business Planning Manager  IBP
+### Customer Success Specialist with Hungarian
 
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426)
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
