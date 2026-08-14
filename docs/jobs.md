@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-08-13 |
+| Last Scraped | 2026-08-14 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-08-13T07:12:37.887Z_
+_Generated: 2026-08-14T07:08:47.309Z_
 
 ### Customer Marketing Manager
 
@@ -58,13 +58,6 @@ _Generated: 2026-08-13T07:12:37.887Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Travel & Expenses with French (1 year contract)
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Travel---Expenses-with-French--1-year-contract-_R-2026030299](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Travel---Expenses-with-French--1-year-contract-_R-2026030299)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
 ### FIN, SWE, DEU, NDL Integrated Business Planning Manager  IBP
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426)
@@ -82,6 +75,13 @@ _Generated: 2026-08-13T07:12:37.887Z_
 ### Data Scientist
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Data-Scientist_R-2026029359-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Data-Scientist_R-2026029359-1)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Travel & Expenses with French (1 year contract)
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Travel---Expenses-with-French--1-year-contract-_R-2026030299](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Travel---Expenses-with-French--1-year-contract-_R-2026030299)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
