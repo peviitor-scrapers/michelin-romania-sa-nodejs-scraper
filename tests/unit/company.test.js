@@ -93,16 +93,30 @@ describe('company.js', () => {
       expect(result.anafData.name).toBe('MICHELIN ROMANIA S.A.');
     });
 
-    it('should throw when ANAF returns no data', async () => {
+    it('should fall back to company config when ANAF returns no data', async () => {
       mockFetch.mockResolvedValueOnce(anafCompanyResponse(null));
 
-      await expect(company.getCompanyData()).rejects.toThrow('No data from ANAF');
+      const result = await company.getCompanyData();
+
+      expect(result).toEqual({
+        company: 'MICHELIN ROMANIA S.A.',
+        cif: '13663684',
+        active: true,
+        anafData: null
+      });
     });
 
-    it('should throw when ANAF returns no company name', async () => {
+    it('should fall back to company config when ANAF returns no company name', async () => {
       mockFetch.mockResolvedValueOnce(anafCompanyResponse({ cui: 13663684, name: null }));
 
-      await expect(company.getCompanyData()).rejects.toThrow('ANAF returned no company name');
+      const result = await company.getCompanyData();
+
+      expect(result).toEqual({
+        company: 'MICHELIN ROMANIA S.A.',
+        cif: '13663684',
+        active: true,
+        anafData: null
+      });
     });
   });
 
