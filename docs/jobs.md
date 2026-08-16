@@ -10,18 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-08-14 |
+| Last Scraped | 2026-08-16 |
 
-## Current Job Listings (12)
+## Current Job Listings (13)
 
-_Generated: 2026-08-14T07:08:47.309Z_
-
-### Customer Marketing Manager
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Marketing-Manager_R-2026028351-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Marketing-Manager_R-2026028351-1)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
+_Generated: 2026-08-16T06:22:26.522Z_
 
 ### Payroll Analyst with French
 
@@ -30,16 +23,16 @@ _Generated: 2026-08-14T07:08:47.309Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Trainee Payroll Administrator with French
+### Power Apps Developer
 
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Trainee-Payroll-Administrator-with-French_R-2026029397](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Trainee-Payroll-Administrator-with-French_R-2026029397)
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/CLM-Developer--Power-Apps_R-2025035521](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/CLM-Developer--Power-Apps_R-2025035521)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Power Apps Developer
+### Business Support Controller with French
 
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/CLM-Developer--Power-Apps_R-2025035521](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/CLM-Developer--Power-Apps_R-2025035521)
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Business-Support-Controller-with-French_R-2026029910](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Business-Support-Controller-with-French_R-2026029910)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
@@ -58,9 +51,9 @@ _Generated: 2026-08-14T07:08:47.309Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### FIN, SWE, DEU, NDL Integrated Business Planning Manager  IBP
+### Travel & Expenses with French (1 year contract)
 
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426)
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Travel---Expenses-with-French--1-year-contract-_R-2026030299](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Travel---Expenses-with-French--1-year-contract-_R-2026030299)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
@@ -79,9 +72,16 @@ _Generated: 2026-08-14T07:08:47.309Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Travel & Expenses with French (1 year contract)
+### FIN, SWE, DEU, NDL Integrated Business Planning Manager  IBP
 
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Travel---Expenses-with-French--1-year-contract-_R-2026030299](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Travel---Expenses-with-French--1-year-contract-_R-2026030299)
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### (FRA) Experienced Credit Management Accountant
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--FRA--Experienced-Credit-Management-Accountant_R-2026031772](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--FRA--Experienced-Credit-Management-Accountant_R-2026031772)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
@@ -90,6 +90,12 @@ _Generated: 2026-08-14T07:08:47.309Z_
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032)
 - **Location:** Pitești
+- **Status:** scraped
+
+### PROFILATOR PRODUSE DIN CAUCIUC
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3356798](https://mediere.anofm.ro/app/module/mediere/job/3356798)
+- **Location:** România
 - **Status:** scraped
 
 ### ELECTRICIAN DE ÎNTRETINERE SI REPARATII
