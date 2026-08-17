@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-08-16 |
+| Last Scraped | 2026-08-17 |
 
 ## Current Job Listings (13)
 
-_Generated: 2026-08-16T06:22:26.522Z_
+_Generated: 2026-08-17T06:33:44.600Z_
 
 ### Payroll Analyst with French
 
