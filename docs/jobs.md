@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-08-18 |
+| Last Scraped | 2026-08-19 |
 
-## Current Job Listings (15)
+## Current Job Listings (16)
 
-_Generated: 2026-08-18T06:25:24.174Z_
+_Generated: 2026-08-19T06:26:04.358Z_
 
 ### Account Manager B2B OFF
 
@@ -26,6 +26,13 @@ _Generated: 2026-08-18T06:25:24.174Z_
 ### Payroll Analyst with French
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Payroll-Analyst-with-French_R-2026025111](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Payroll-Analyst-with-French_R-2026025111)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Pricing Trainee
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Pricing-Trainee_R-2026031936](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Pricing-Trainee_R-2026031936)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
