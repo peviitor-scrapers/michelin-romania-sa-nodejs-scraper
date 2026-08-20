@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-08-19 |
+| Last Scraped | 2026-08-20 |
 
-## Current Job Listings (16)
+## Current Job Listings (15)
 
-_Generated: 2026-08-19T06:26:04.358Z_
+_Generated: 2026-08-20T06:27:17.484Z_
 
 ### Account Manager B2B OFF
 
@@ -75,13 +75,6 @@ _Generated: 2026-08-19T06:26:04.358Z_
 ### Travel & Expenses with French (1 year contract)
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Travel---Expenses-with-French--1-year-contract-_R-2026030299](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Travel---Expenses-with-French--1-year-contract-_R-2026030299)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Customer Success Specialist with Hungarian
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Success-Manager-with-Hungarian_R-2026029084)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
