@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-08-21 |
+| Last Scraped | 2026-08-23 |
 
-## Current Job Listings (14)
+## Current Job Listings (13)
 
-_Generated: 2026-08-21T06:28:36.901Z_
+_Generated: 2026-08-23T06:23:45.031Z_
 
 ### Account Manager B2B OFF
 
@@ -104,10 +104,4 @@ _Generated: 2026-08-21T06:28:36.901Z_
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032)
 - **Location:** Pitești
-- **Status:** scraped
-
-### PROFILATOR PRODUSE DIN CAUCIUC
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3356798](https://mediere.anofm.ro/app/module/mediere/job/3356798)
-- **Location:** România
 - **Status:** scraped
