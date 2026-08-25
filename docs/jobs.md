@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-08-24 |
+| Last Scraped | 2026-08-25 |
 
-## Current Job Listings (13)
+## Current Job Listings (14)
 
-_Generated: 2026-08-24T06:36:29.845Z_
+_Generated: 2026-08-25T06:28:40.581Z_
 
 ### Account Manager B2B OFF
 
@@ -54,6 +54,13 @@ _Generated: 2026-08-24T06:36:29.845Z_
 ### Business Support Controller with French
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Business-Support-Controller-with-French_R-2026029910](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Business-Support-Controller-with-French_R-2026029910)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### HR Recruitment Support with French (1 year contract)
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Recruitment-Support-with-French--1-year-contract-_R-2026032447](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Recruitment-Support-with-French--1-year-contract-_R-2026032447)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
