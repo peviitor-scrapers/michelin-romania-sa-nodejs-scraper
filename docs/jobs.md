@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-08-28 |
+| Last Scraped | 2026-08-29 |
 
 ## Current Job Listings (19)
 
-_Generated: 2026-08-28T17:52:59.516Z_
+_Generated: 2026-08-29T11:57:30.115Z_
 
 ### Account Manager B2B OFF
 
@@ -100,16 +100,30 @@ _Generated: 2026-08-28T17:52:59.516Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### FIN, SWE, DEU, NDL Integrated Business Planning Manager  IBP
+### Data Scientist
 
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426)
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Data-Scientist_R-2026029359-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Data-Scientist_R-2026029359-1)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Data Scientist
+### Electrician
 
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Data-Scientist_R-2026029359-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Data-Scientist_R-2026029359-1)
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electrician_R-2023028008](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electrician_R-2023028008)
+- **Work Mode:** on-site
+- **Location:** Zalău
+- **Status:** scraped
+
+### Operator producție, Zalău
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Operator-produc-ie--Zalu_R-2023012502](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Operator-produc-ie--Zalu_R-2023012502)
+- **Work Mode:** on-site
+- **Location:** Zalău
+- **Status:** scraped
+
+### FIN, SWE, DEU, NDL Integrated Business Planning Manager  IBP
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
@@ -128,22 +142,8 @@ _Generated: 2026-08-28T17:52:59.516Z_
 - **Location:** Zalău
 - **Status:** scraped
 
-### Electrician
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electrician_R-2023028008](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electrician_R-2023028008)
-- **Work Mode:** on-site
-- **Location:** Zalău
-- **Status:** scraped
-
 ### Tehnician montare
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032)
 - **Location:** Pitești
-- **Status:** scraped
-
-### Operator producție, Zalău
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Operator-produc-ie--Zalu_R-2023012502](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Operator-produc-ie--Zalu_R-2023012502)
-- **Work Mode:** on-site
-- **Location:** Zalău
 - **Status:** scraped
