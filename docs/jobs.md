@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-09-03 |
+| Last Scraped | 2026-09-04 |
 
 ## Current Job Listings (22)
 
-_Generated: 2026-09-03T10:22:36.205Z_
+_Generated: 2026-09-04T10:14:40.754Z_
 
 ### Account Manager B2B OFF
 
@@ -159,6 +159,7 @@ _Generated: 2026-09-03T10:22:36.205Z_
 ### Euromaster Senior Consultant (EBS)
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Euromaster-Senior-Consultant--EBS-_R-2026033726](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Euromaster-Senior-Consultant--EBS-_R-2026033726)
+- **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
 
