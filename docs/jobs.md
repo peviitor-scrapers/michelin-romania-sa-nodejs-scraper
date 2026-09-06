@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-09-05 |
+| Last Scraped | 2026-09-06 |
 
 ## Current Job Listings (23)
 
-_Generated: 2026-09-05T09:39:05.163Z_
+_Generated: 2026-09-06T09:54:23.024Z_
 
 ### Account Manager B2B OFF
 
