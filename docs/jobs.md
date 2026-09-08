@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-09-07 |
+| Last Scraped | 2026-09-08 |
 
-## Current Job Listings (23)
+## Current Job Listings (22)
 
-_Generated: 2026-09-07T11:01:49.522Z_
+_Generated: 2026-09-08T10:16:50.755Z_
 
 ### Account Manager B2B OFF
 
@@ -26,13 +26,6 @@ _Generated: 2026-09-07T11:01:49.522Z_
 ### Trainee Procurement with German or Italian
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Trainee-Procurement-with-German-or-Italian_R-2026033145](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Trainee-Procurement-with-German-or-Italian_R-2026033145)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Pricing Trainee
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Pricing-Trainee_R-2026031936](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Pricing-Trainee_R-2026031936)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
@@ -55,6 +48,12 @@ _Generated: 2026-09-07T11:01:49.522Z_
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Invoice-Clearing-Administrator_R-2026031124](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Invoice-Clearing-Administrator_R-2026031124)
 - **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Payroll Administrator with French
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Payroll-Administrator-with-French_R-2026033743-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Payroll-Administrator-with-French_R-2026033743-1)
 - **Location:** Voluntari
 - **Status:** scraped
 
@@ -167,10 +166,4 @@ _Generated: 2026-09-07T11:01:49.522Z_
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032)
 - **Location:** Pitești
-- **Status:** scraped
-
-### CONFECTIONER DE PRODUSE INDUSTRIALE DIN CAUCIUC
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3378094](https://mediere.anofm.ro/app/module/mediere/job/3378094)
-- **Location:** România
 - **Status:** scraped
