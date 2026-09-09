@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-09-08 |
+| Last Scraped | 2026-09-09 |
 
-## Current Job Listings (22)
+## Current Job Listings (21)
 
-_Generated: 2026-09-08T10:16:50.755Z_
+_Generated: 2026-09-09T10:23:07.530Z_
 
 ### Account Manager B2B OFF
 
@@ -33,13 +33,6 @@ _Generated: 2026-09-08T10:16:50.755Z_
 ### Logistics Invoicing Trainee
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Logistics-Invoicing-Trainee_R-2026032585](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Logistics-Invoicing-Trainee_R-2026032585)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Business Support Controller Senior with German
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Business-Support-Controller-Senior-with-German_R-2026032139-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Business-Support-Controller-Senior-with-German_R-2026032139-1)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
@@ -92,13 +85,6 @@ _Generated: 2026-09-08T10:16:50.755Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Travel & Expenses with French (1 year contract)
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Travel---Expenses-with-French--1-year-contract-_R-2026030299](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Travel---Expenses-with-French--1-year-contract-_R-2026030299)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
 ### Connected Solutions Administrator with French
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Connected-Solutions-Administrator-with-French_R-2026032855](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Connected-Solutions-Administrator-with-French_R-2026032855)
@@ -111,20 +97,6 @@ _Generated: 2026-09-08T10:16:50.755Z_
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Data-Scientist_R-2026029359-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Data-Scientist_R-2026029359-1)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
-- **Status:** scraped
-
-### Electrician
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electrician_R-2023028008](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electrician_R-2023028008)
-- **Work Mode:** on-site
-- **Location:** Zalău
-- **Status:** scraped
-
-### Operator producție, Zalău
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Operator-produc-ie--Zalu_R-2023012502](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Operator-produc-ie--Zalu_R-2023012502)
-- **Work Mode:** on-site
-- **Location:** Zalău
 - **Status:** scraped
 
 ### FIN, SWE, DEU, NDL Integrated Business Planning Manager  IBP
@@ -162,8 +134,29 @@ _Generated: 2026-09-08T10:16:50.755Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
+### Electrician
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electrician_R-2023028008](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electrician_R-2023028008)
+- **Work Mode:** on-site
+- **Location:** Zalău
+- **Status:** scraped
+
+### Stivuitorist
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Stivuitorist_R-2024027112](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Stivuitorist_R-2024027112)
+- **Work Mode:** on-site
+- **Location:** Zalău
+- **Status:** scraped
+
 ### Tehnician montare
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032)
 - **Location:** Pitești
+- **Status:** scraped
+
+### Operator producție, Zalău
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Operator-produc-ie--Zalu_R-2023012502](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Operator-produc-ie--Zalu_R-2023012502)
+- **Work Mode:** on-site
+- **Location:** Zalău
 - **Status:** scraped
