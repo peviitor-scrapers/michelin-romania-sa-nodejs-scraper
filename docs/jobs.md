@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-09-11 |
+| Last Scraped | 2026-09-12 |
 
-## Current Job Listings (22)
+## Current Job Listings (23)
 
-_Generated: 2026-09-11T10:12:57.087Z_
+_Generated: 2026-09-12T09:47:07.451Z_
 
 ### Account Manager B2B OFF
 
@@ -40,13 +40,6 @@ _Generated: 2026-09-11T10:12:57.087Z_
 ### HR Support with French
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Support-with-French_R-2026034185](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Support-with-French_R-2026034185)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Invoice Clearing Administrator
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Invoice-Clearing-Administrator_R-2026031124](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Invoice-Clearing-Administrator_R-2026031124)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
@@ -106,6 +99,27 @@ _Generated: 2026-09-11T10:12:57.087Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
+### Electrician
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electrician_R-2023028008](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electrician_R-2023028008)
+- **Work Mode:** on-site
+- **Location:** Zalău
+- **Status:** scraped
+
+### Stivuitorist
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Stivuitorist_R-2024027112](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Stivuitorist_R-2024027112)
+- **Work Mode:** on-site
+- **Location:** Zalău
+- **Status:** scraped
+
+### Operator producție, Zalău
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Operator-produc-ie--Zalu_R-2023012502](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Operator-produc-ie--Zalu_R-2023012502)
+- **Work Mode:** on-site
+- **Location:** Zalău
+- **Status:** scraped
+
 ### FIN, SWE, DEU, NDL Integrated Business Planning Manager  IBP
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426)
@@ -141,29 +155,20 @@ _Generated: 2026-09-11T10:12:57.087Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Electrician
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electrician_R-2023028008](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electrician_R-2023028008)
-- **Work Mode:** on-site
-- **Location:** Zalău
-- **Status:** scraped
-
-### Stivuitorist
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Stivuitorist_R-2024027112](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Stivuitorist_R-2024027112)
-- **Work Mode:** on-site
-- **Location:** Zalău
-- **Status:** scraped
-
 ### Tehnician montare
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032)
 - **Location:** Pitești
 - **Status:** scraped
 
-### Operator producție, Zalău
+### CALANDROR LA FINISAREA CAUCIUCULUI
 
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Operator-produc-ie--Zalu_R-2023012502](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Operator-produc-ie--Zalu_R-2023012502)
-- **Work Mode:** on-site
-- **Location:** Zalău
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3384698](https://mediere.anofm.ro/app/module/mediere/job/3384698)
+- **Location:** România
+- **Status:** scraped
+
+### ELECTROMECANIC MASINI SI ECHIPAMENTE ELECTRICE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3384688](https://mediere.anofm.ro/app/module/mediere/job/3384688)
+- **Location:** România
 - **Status:** scraped
