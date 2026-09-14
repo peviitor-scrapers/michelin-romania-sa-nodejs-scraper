@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-09-13 |
+| Last Scraped | 2026-09-14 |
 
-## Current Job Listings (23)
+## Current Job Listings (24)
 
-_Generated: 2026-09-13T10:47:39.262Z_
+_Generated: 2026-09-14T11:14:10.638Z_
 
 ### Account Manager B2B OFF
 
@@ -88,6 +88,13 @@ _Generated: 2026-09-13T10:47:39.262Z_
 ### Connected Solutions Administrator with French
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Connected-Solutions-Administrator-with-French_R-2026032855](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Connected-Solutions-Administrator-with-French_R-2026032855)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### HR Administrator with French
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Administrator-with-French_R-2026034195](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Administrator-with-French_R-2026034195)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
