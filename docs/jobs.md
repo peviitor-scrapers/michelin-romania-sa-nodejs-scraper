@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-09-14 |
+| Last Scraped | 2026-09-15 |
 
-## Current Job Listings (24)
+## Current Job Listings (25)
 
-_Generated: 2026-09-14T11:14:10.638Z_
+_Generated: 2026-09-15T10:40:54.033Z_
 
 ### Account Manager B2B OFF
 
@@ -71,7 +71,7 @@ _Generated: 2026-09-14T11:14:10.638Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### HR Application Analyst with French
+### HR Operations Analyst with French
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Analyst-with-French_R-2026015660](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Analyst-with-French_R-2026015660)
 - **Work Mode:** hybrid
@@ -158,6 +158,13 @@ _Generated: 2026-09-14T11:14:10.638Z_
 ### Euromaster Senior Consultant (EBS)
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Euromaster-Senior-Consultant--EBS-_R-2026033726](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Euromaster-Senior-Consultant--EBS-_R-2026033726)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### (SWE) Senior General Ledger Accountant
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--SWE--Senior-General-Ledger-Accountant_R-2026034622](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--SWE--Senior-General-Ledger-Accountant_R-2026034622)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
