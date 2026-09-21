@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-09-20 |
+| Last Scraped | 2026-09-21 |
 
-## Current Job Listings (27)
+## Current Job Listings (26)
 
-_Generated: 2026-09-20T10:17:15.988Z_
+_Generated: 2026-09-21T11:26:06.948Z_
 
 ### Account Manager B2B OFF
 
@@ -40,13 +40,6 @@ _Generated: 2026-09-20T10:17:15.988Z_
 ### Logistics Trainee
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Logistics-Trainee_R-2026035606](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Logistics-Trainee_R-2026035606)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Logistics Invoicing Trainee
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Logistics-Invoicing-Trainee_R-2026032585](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Logistics-Invoicing-Trainee_R-2026032585)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
