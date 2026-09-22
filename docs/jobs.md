@@ -10,16 +10,30 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-09-21 |
+| Last Scraped | 2026-09-22 |
 
-## Current Job Listings (26)
+## Current Job Listings (28)
 
-_Generated: 2026-09-21T11:26:06.948Z_
+_Generated: 2026-09-22T10:34:18.390Z_
 
 ### Account Manager B2B OFF
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Account-Manager-B2B-OFF_R-2026023310-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Account-Manager-B2B-OFF_R-2026023310-1)
 - **Work Mode:** on-site
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Chief Accountant Turkey
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Chief-Accountant-Turkey_R-2026035800-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Chief-Accountant-Turkey_R-2026035800-1)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Trainee HR Administrator with French
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Trainee-HR-Administrator-with-French_R-2026035530](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Trainee-HR-Administrator-with-French_R-2026035530)
+- **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
 
