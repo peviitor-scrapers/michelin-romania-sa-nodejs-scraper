@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-09-22 |
+| Last Scraped | 2026-09-23 |
 
-## Current Job Listings (28)
+## Current Job Listings (25)
 
-_Generated: 2026-09-22T10:34:18.390Z_
+_Generated: 2026-09-23T10:28:22.810Z_
 
 ### Account Manager B2B OFF
 
@@ -44,30 +44,10 @@ _Generated: 2026-09-22T10:34:18.390Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Customer Data Management Trainee
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Data-Management-Trainee_R-2026035290](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Data-Management-Trainee_R-2026035290)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Logistics Trainee
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Logistics-Trainee_R-2026035606](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Logistics-Trainee_R-2026035606)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
 ### HR Support with French
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Support-with-French_R-2026034185](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Support-with-French_R-2026034185)
 - **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Payroll Administrator with French
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Payroll-Administrator-with-French_R-2026033743-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Payroll-Administrator-with-French_R-2026033743-1)
 - **Location:** Voluntari
 - **Status:** scraped
 
