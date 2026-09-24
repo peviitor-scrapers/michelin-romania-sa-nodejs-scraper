@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-09-23 |
+| Last Scraped | 2026-09-24 |
 
-## Current Job Listings (25)
+## Current Job Listings (23)
 
-_Generated: 2026-09-23T10:28:22.810Z_
+_Generated: 2026-09-24T10:46:50.032Z_
 
 ### Account Manager B2B OFF
 
@@ -174,16 +174,4 @@ _Generated: 2026-09-23T10:28:22.810Z_
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032)
 - **Location:** Pitești
-- **Status:** scraped
-
-### CALANDROR LA FINISAREA CAUCIUCULUI
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3384698](https://mediere.anofm.ro/app/module/mediere/job/3384698)
-- **Location:** România
-- **Status:** scraped
-
-### ELECTROMECANIC MASINI SI ECHIPAMENTE ELECTRICE
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3384688](https://mediere.anofm.ro/app/module/mediere/job/3384688)
-- **Location:** România
 - **Status:** scraped
