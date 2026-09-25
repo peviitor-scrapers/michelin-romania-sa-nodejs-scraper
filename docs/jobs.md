@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-09-24 |
+| Last Scraped | 2026-09-25 |
 
 ## Current Job Listings (23)
 
-_Generated: 2026-09-24T10:46:50.032Z_
+_Generated: 2026-09-25T10:48:40.203Z_
 
 ### Account Manager B2B OFF
 
@@ -54,20 +54,6 @@ _Generated: 2026-09-24T10:46:50.032Z_
 ### Power Apps Developer
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/CLM-Developer--Power-Apps_R-2025035521](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/CLM-Developer--Power-Apps_R-2025035521)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Business Support Controller with French
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Business-Support-Controller-with-French_R-2026029910](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Business-Support-Controller-with-French_R-2026029910)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### HR Recruitment Support with French (1 year contract)
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Recruitment-Support-with-French--1-year-contract-_R-2026032447](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Recruitment-Support-with-French--1-year-contract-_R-2026032447)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
@@ -174,4 +160,16 @@ _Generated: 2026-09-24T10:46:50.032Z_
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032)
 - **Location:** Pitești
+- **Status:** scraped
+
+### CALANDROR LA FINISAREA CAUCIUCULUI
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3384698](https://mediere.anofm.ro/app/module/mediere/job/3384698)
+- **Location:** România
+- **Status:** scraped
+
+### ELECTROMECANIC MASINI SI ECHIPAMENTE ELECTRICE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3384688](https://mediere.anofm.ro/app/module/mediere/job/3384688)
+- **Location:** România
 - **Status:** scraped
