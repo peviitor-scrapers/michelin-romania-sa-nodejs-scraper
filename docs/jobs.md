@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-09-28 |
+| Last Scraped | 2026-09-29 |
 
-## Current Job Listings (23)
+## Current Job Listings (24)
 
-_Generated: 2026-09-28T12:20:56.555Z_
+_Generated: 2026-09-29T11:47:51.743Z_
 
 ### Account Manager B2B OFF
 
@@ -164,7 +164,13 @@ _Generated: 2026-09-28T12:20:56.555Z_
 
 ### CALANDROR LA FINISAREA CAUCIUCULUI
 
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3384698](https://mediere.anofm.ro/app/module/mediere/job/3384698)
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3400317](https://mediere.anofm.ro/app/module/mediere/job/3400317)
+- **Location:** România
+- **Status:** scraped
+
+### CONFECTIONER DE PRODUSE INDUSTRIALE DIN CAUCIUC
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3400305](https://mediere.anofm.ro/app/module/mediere/job/3400305)
 - **Location:** România
 - **Status:** scraped
 
