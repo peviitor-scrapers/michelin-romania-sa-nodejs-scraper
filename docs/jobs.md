@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-10-01 |
+| Last Scraped | 2026-10-02 |
 
-## Current Job Listings (23)
+## Current Job Listings (25)
 
-_Generated: 2026-10-01T12:03:02.492Z_
+_Generated: 2026-10-02T11:34:28.004Z_
 
 ### Account Manager B2B OFF
 
@@ -40,6 +40,13 @@ _Generated: 2026-10-01T12:03:02.492Z_
 ### Trainee Procurement with German or Italian
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Trainee-Procurement-with-German-or-Italian_R-2026033145](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Trainee-Procurement-with-German-or-Italian_R-2026033145)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Business Support Trainee
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Business-Support-Trainee_R-2026037063](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Business-Support-Trainee_R-2026037063)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
@@ -82,6 +89,13 @@ _Generated: 2026-10-01T12:03:02.492Z_
 ### HR Administrator with French
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Administrator-with-French_R-2026034195](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Administrator-with-French_R-2026034195)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Cost Analyst
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Cost-Analyst_R-2026036597](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Cost-Analyst_R-2026036597)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
