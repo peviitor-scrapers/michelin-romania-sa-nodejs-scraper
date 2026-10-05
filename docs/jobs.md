@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-10-04 |
+| Last Scraped | 2026-10-05 |
 
 ## Current Job Listings (25)
 
-_Generated: 2026-10-04T11:30:48.096Z_
+_Generated: 2026-10-05T13:00:34.546Z_
 
 ### Account Manager B2B OFF
 
@@ -156,16 +156,16 @@ _Generated: 2026-10-04T11:30:48.096Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Euromaster Senior Consultant (EBS)
+### (SWE) Senior General Ledger Accountant
 
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Euromaster-Senior-Consultant--EBS-_R-2026033726](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Euromaster-Senior-Consultant--EBS-_R-2026033726)
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--SWE--Senior-General-Ledger-Accountant_R-2026034622](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--SWE--Senior-General-Ledger-Accountant_R-2026034622)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
 
-### (SWE) Senior General Ledger Accountant
+### Group Lean HR Project Manager
 
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--SWE--Senior-General-Ledger-Accountant_R-2026034622](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--SWE--Senior-General-Ledger-Accountant_R-2026034622)
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Group-Lean-HR-Project-Manager_R-2026035614-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Group-Lean-HR-Project-Manager_R-2026035614-1)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
