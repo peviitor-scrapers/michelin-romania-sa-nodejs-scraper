@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-10-05 |
+| Last Scraped | 2026-10-06 |
 
 ## Current Job Listings (25)
 
-_Generated: 2026-10-05T13:00:34.546Z_
+_Generated: 2026-10-06T12:25:00.947Z_
 
 ### Account Manager B2B OFF
 
@@ -26,13 +26,6 @@ _Generated: 2026-10-05T13:00:34.546Z_
 ### Chief Accountant Turkey
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Chief-Accountant-Turkey_R-2026035800-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Chief-Accountant-Turkey_R-2026035800-1)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Trainee HR Administrator with French
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Trainee-HR-Administrator-with-French_R-2026035530](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Trainee-HR-Administrator-with-French_R-2026035530)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
@@ -54,6 +47,13 @@ _Generated: 2026-10-05T13:00:34.546Z_
 ### HR Support with French
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Support-with-French_R-2026034185](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Support-with-French_R-2026034185)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### HR Support with French (2 years contract)
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Support-with-French--2-years-contract-_R-2026037487](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Support-with-French--2-years-contract-_R-2026037487)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
@@ -100,7 +100,7 @@ _Generated: 2026-10-05T13:00:34.546Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Data Scientist
+### Senior Data Scientist
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Data-Scientist_R-2026029359-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Data-Scientist_R-2026029359-1)
 - **Work Mode:** hybrid
