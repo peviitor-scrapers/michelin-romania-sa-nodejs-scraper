@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-10-11 |
+| Last Scraped | 2026-10-12 |
 
-## Current Job Listings (24)
+## Current Job Listings (20)
 
-_Generated: 2026-10-11T11:48:11.138Z_
+_Generated: 2026-10-12T13:52:43.359Z_
 
 ### Account Manager B2B OFF
 
@@ -114,20 +114,6 @@ _Generated: 2026-10-11T11:48:11.138Z_
 - **Location:** Zalău
 - **Status:** scraped
 
-### FIN, SWE, DEU, NDL Integrated Business Planning Manager  IBP
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/FIN--SWE--DEU--NDL-Integrated-Business-Planning-Manager--IBP_R-2026027426)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### (FRA) Experienced Credit Management Accountant
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--FRA--Experienced-Credit-Management-Accountant_R-2026031772](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--FRA--Experienced-Credit-Management-Accountant_R-2026031772)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
 ### Electromecanic
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electromecanic_R-2026022719](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electromecanic_R-2026022719)
@@ -167,16 +153,4 @@ _Generated: 2026-10-11T11:48:11.138Z_
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032)
 - **Location:** Pitești
-- **Status:** scraped
-
-### CALANDROR LA FINISAREA CAUCIUCULUI
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3400317](https://mediere.anofm.ro/app/module/mediere/job/3400317)
-- **Location:** România
-- **Status:** scraped
-
-### CONFECTIONER DE PRODUSE INDUSTRIALE DIN CAUCIUC
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3400305](https://mediere.anofm.ro/app/module/mediere/job/3400305)
-- **Location:** România
 - **Status:** scraped
