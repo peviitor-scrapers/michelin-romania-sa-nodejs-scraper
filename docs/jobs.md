@@ -10,18 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-10-14 |
+| Last Scraped | 2026-10-15 |
 
-## Current Job Listings (20)
+## Current Job Listings (19)
 
-_Generated: 2026-10-14T10:50:53.869Z_
-
-### Account Manager B2B OFF
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Account-Manager-B2B-OFF_R-2026023310-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Account-Manager-B2B-OFF_R-2026023310-1)
-- **Work Mode:** on-site
-- **Location:** Voluntari
-- **Status:** scraped
+_Generated: 2026-10-15T10:33:11.235Z_
 
 ### Chief Accountant Turkey
 
