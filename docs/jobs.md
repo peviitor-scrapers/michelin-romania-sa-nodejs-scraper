@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-10-15 |
+| Last Scraped | 2026-10-16 |
 
-## Current Job Listings (19)
+## Current Job Listings (20)
 
-_Generated: 2026-10-15T10:33:11.235Z_
+_Generated: 2026-10-16T10:20:22.767Z_
 
 ### Chief Accountant Turkey
 
@@ -146,4 +146,10 @@ _Generated: 2026-10-15T10:33:11.235Z_
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032)
 - **Location:** Pitești
+- **Status:** scraped
+
+### Site Environment Specialist - KÖRNYEZETVÉDELMI SZAKÉRTŐ
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Nyregyhza/Site-Environment-Specialist---KRNYEZETVDELMI-SZAKRT_R-2026038933](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Nyregyhza/Site-Environment-Specialist---KRNYEZETVDELMI-SZAKRT_R-2026038933)
+- **Location:** România
 - **Status:** scraped
