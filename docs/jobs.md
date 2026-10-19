@@ -10,29 +10,15 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-10-18 |
+| Last Scraped | 2026-10-19 |
 
-## Current Job Listings (20)
+## Current Job Listings (18)
 
-_Generated: 2026-10-18T10:05:30.752Z_
+_Generated: 2026-10-19T11:33:17.366Z_
 
 ### Chief Accountant Turkey
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Chief-Accountant-Turkey_R-2026035800-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Chief-Accountant-Turkey_R-2026035800-1)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Business Support Trainee
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Business-Support-Trainee_R-2026037063](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Business-Support-Trainee_R-2026037063)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### HR Support with French (2 years contract)
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Support-with-French--2-years-contract-_R-2026037487](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Support-with-French--2-years-contract-_R-2026037487)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
