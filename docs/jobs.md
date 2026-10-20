@@ -10,15 +10,22 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-10-19 |
+| Last Scraped | 2026-10-20 |
 
 ## Current Job Listings (18)
 
-_Generated: 2026-10-19T11:33:17.366Z_
+_Generated: 2026-10-20T10:38:26.936Z_
 
 ### Chief Accountant Turkey
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Chief-Accountant-Turkey_R-2026035800-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Chief-Accountant-Turkey_R-2026035800-1)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Contract Manager with German
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Contract-Manager-with-German_R-2026038391](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Contract-Manager-with-German_R-2026038391)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
@@ -132,10 +139,4 @@ _Generated: 2026-10-19T11:33:17.366Z_
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032)
 - **Location:** Pitești
-- **Status:** scraped
-
-### Site Environment Specialist - KÖRNYEZETVÉDELMI SZAKÉRTŐ
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Nyregyhza/Site-Environment-Specialist---KRNYEZETVDELMI-SZAKRT_R-2026038933](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Nyregyhza/Site-Environment-Specialist---KRNYEZETVDELMI-SZAKRT_R-2026038933)
-- **Location:** România
 - **Status:** scraped
