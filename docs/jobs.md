@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-10-21 |
+| Last Scraped | 2026-10-22 |
 
-## Current Job Listings (19)
+## Current Job Listings (22)
 
-_Generated: 2026-10-21T10:49:23.236Z_
+_Generated: 2026-10-22T10:50:34.790Z_
 
 ### Chief Accountant Turkey
 
@@ -27,6 +27,20 @@ _Generated: 2026-10-21T10:49:23.236Z_
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Export-Documentation-Trainee_R-2026039593](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Export-Documentation-Trainee_R-2026039593)
 - **Work Mode:** on-site
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Future Opportunities – Campus2Work
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Future-Opportunities---Career-Fair-Submissions_R-2025037494](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Future-Opportunities---Career-Fair-Submissions_R-2025037494)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### T&E Trainee with Italian
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/T-E-Trainee-with-Italian_R-2026039759](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/T-E-Trainee-with-Italian_R-2026039759)
+- **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
 
@@ -138,6 +152,13 @@ _Generated: 2026-10-21T10:49:23.236Z_
 ### (NLD) Experienced General Ledger Accountant
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--NLD--TUR--Experienced-General-Ledger-AccountantExperienced-General-Ledger-Accountant_R-2026038320](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--NLD--TUR--Experienced-General-Ledger-AccountantExperienced-General-Ledger-Accountant_R-2026038320)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Senior Software Engineer
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Senior-Software-Engineer_R-2026039641](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Senior-Software-Engineer_R-2026039641)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
