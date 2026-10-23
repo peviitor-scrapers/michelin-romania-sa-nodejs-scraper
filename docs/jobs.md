@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-10-22 |
+| Last Scraped | 2026-10-23 |
 
 ## Current Job Listings (22)
 
-_Generated: 2026-10-22T10:50:34.790Z_
+_Generated: 2026-10-23T10:42:21.501Z_
 
 ### Chief Accountant Turkey
 
@@ -100,6 +100,13 @@ _Generated: 2026-10-22T10:50:34.790Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
+### Customs & Digital Process Engineering Lead
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customs---Digital-Process-Engineering-Lead_R-2026040111-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customs---Digital-Process-Engineering-Lead_R-2026040111-1)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
 ### Electrician
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electrician_R-2023028008](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electrician_R-2023028008)
@@ -152,13 +159,6 @@ _Generated: 2026-10-22T10:50:34.790Z_
 ### (NLD) Experienced General Ledger Accountant
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--NLD--TUR--Experienced-General-Ledger-AccountantExperienced-General-Ledger-Accountant_R-2026038320](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--NLD--TUR--Experienced-General-Ledger-AccountantExperienced-General-Ledger-Accountant_R-2026038320)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Senior Software Engineer
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Senior-Software-Engineer_R-2026039641](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Senior-Software-Engineer_R-2026039641)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
