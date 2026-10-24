@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-10-23 |
+| Last Scraped | 2026-10-24 |
 
-## Current Job Listings (22)
+## Current Job Listings (19)
 
-_Generated: 2026-10-23T10:42:21.501Z_
+_Generated: 2026-10-24T09:59:03.187Z_
 
 ### Chief Accountant Turkey
 
@@ -23,24 +23,17 @@ _Generated: 2026-10-23T10:42:21.501Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Export Documentation Trainee
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Export-Documentation-Trainee_R-2026039593](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Export-Documentation-Trainee_R-2026039593)
-- **Work Mode:** on-site
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Future Opportunities – Campus2Work
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Future-Opportunities---Career-Fair-Submissions_R-2025037494](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Future-Opportunities---Career-Fair-Submissions_R-2025037494)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
 ### T&E Trainee with Italian
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/T-E-Trainee-with-Italian_R-2026039759](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/T-E-Trainee-with-Italian_R-2026039759)
 - **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Export Documentation Trainee
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Export-Documentation-Trainee_R-2026039593](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Export-Documentation-Trainee_R-2026039593)
+- **Work Mode:** on-site
 - **Location:** Voluntari
 - **Status:** scraped
 
@@ -58,23 +51,9 @@ _Generated: 2026-10-23T10:42:21.501Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### HR Operations Analyst with French
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Analyst-with-French_R-2026015660](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Analyst-with-French_R-2026015660)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
 ### Salesforce Developer
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Salesforce-Developer_R-2026005373](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Salesforce-Developer_R-2026005373)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### HR Administrator with French
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Administrator-with-French_R-2026034195](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Administrator-with-French_R-2026034195)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
