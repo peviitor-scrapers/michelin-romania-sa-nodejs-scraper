@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-10-25 |
+| Last Scraped | 2026-10-26 |
 
-## Current Job Listings (19)
+## Current Job Listings (18)
 
-_Generated: 2026-10-25T10:23:08.968Z_
+_Generated: 2026-10-26T11:51:38.119Z_
 
 ### Chief Accountant Turkey
 
@@ -140,10 +140,4 @@ _Generated: 2026-10-25T10:23:08.968Z_
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--NLD--TUR--Experienced-General-Ledger-AccountantExperienced-General-Ledger-Accountant_R-2026038320](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--NLD--TUR--Experienced-General-Ledger-AccountantExperienced-General-Ledger-Accountant_R-2026038320)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
-- **Status:** scraped
-
-### Tehnician montare
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EUROMASTER-PITESTI/Tehnician-montare_R-2025015032)
-- **Location:** Pitești
 - **Status:** scraped
