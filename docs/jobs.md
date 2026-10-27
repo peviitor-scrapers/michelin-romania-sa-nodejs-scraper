@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-10-26 |
+| Last Scraped | 2026-10-27 |
 
-## Current Job Listings (18)
+## Current Job Listings (19)
 
-_Generated: 2026-10-26T11:51:38.119Z_
+_Generated: 2026-10-27T11:15:39.507Z_
 
 ### Chief Accountant Turkey
 
@@ -72,9 +72,16 @@ _Generated: 2026-10-26T11:51:38.119Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Senior Data Scientist
+### Procurement Officer with Italian
 
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Data-Scientist_R-2026029359-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Data-Scientist_R-2026029359-1)
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Procurement-Officer-with-Italian_R-2026039812](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Procurement-Officer-with-Italian_R-2026039812)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Customer Service Team Manager
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Service-Team-Manager_R-2026040312](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customer-Service-Team-Manager_R-2026040312)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
