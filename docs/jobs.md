@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-10-27 |
+| Last Scraped | 2026-10-28 |
 
-## Current Job Listings (19)
+## Current Job Listings (18)
 
-_Generated: 2026-10-27T11:15:39.507Z_
+_Generated: 2026-10-28T11:49:37.162Z_
 
 ### Chief Accountant Turkey
 
@@ -27,13 +27,6 @@ _Generated: 2026-10-27T11:15:39.507Z_
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/T-E-Trainee-with-Italian_R-2026039759](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/T-E-Trainee-with-Italian_R-2026039759)
 - **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Export Documentation Trainee
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Export-Documentation-Trainee_R-2026039593](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Export-Documentation-Trainee_R-2026039593)
-- **Work Mode:** on-site
 - **Location:** Voluntari
 - **Status:** scraped
 
