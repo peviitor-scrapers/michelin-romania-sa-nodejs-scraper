@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-10-30 |
+| Last Scraped | 2026-10-31 |
 
-## Current Job Listings (15)
+## Current Job Listings (20)
 
-_Generated: 2026-10-30T11:51:37.608Z_
+_Generated: 2026-10-31T11:25:04.092Z_
 
 ### T&E Trainee with Italian
 
@@ -79,13 +79,6 @@ _Generated: 2026-10-30T11:51:37.608Z_
 - **Location:** Zalău
 - **Status:** scraped
 
-### Stivuitorist
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Stivuitorist_R-2024027112](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Stivuitorist_R-2024027112)
-- **Work Mode:** on-site
-- **Location:** Zalău
-- **Status:** scraped
-
 ### Operator producție, Zalău
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Operator-produc-ie--Zalu_R-2023012502](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Operator-produc-ie--Zalu_R-2023012502)
@@ -119,4 +112,40 @@ _Generated: 2026-10-30T11:51:37.608Z_
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--NLD--TUR--Experienced-General-Ledger-AccountantExperienced-General-Ledger-Accountant_R-2026038320](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--NLD--TUR--Experienced-General-Ledger-AccountantExperienced-General-Ledger-Accountant_R-2026038320)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
+- **Status:** scraped
+
+### PROFILATOR PRODUSE DIN CAUCIUC
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3434097](https://mediere.anofm.ro/app/module/mediere/job/3434097)
+- **Location:** România
+- **Status:** scraped
+
+### CONFECTIONER DE PRODUSE INDUSTRIALE DIN CAUCIUC
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3434083](https://mediere.anofm.ro/app/module/mediere/job/3434083)
+- **Location:** România
+- **Status:** scraped
+
+### PROFILATOR PRODUSE DIN CAUCIUC
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3434073](https://mediere.anofm.ro/app/module/mediere/job/3434073)
+- **Location:** România
+- **Status:** scraped
+
+### MECANIC UTILAJ
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3434054](https://mediere.anofm.ro/app/module/mediere/job/3434054)
+- **Location:** România
+- **Status:** scraped
+
+### ELECTROMECANIC MASINI SI ECHIPAMENTE ELECTRICE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3434041](https://mediere.anofm.ro/app/module/mediere/job/3434041)
+- **Location:** România
+- **Status:** scraped
+
+### ELECTROMECANIC MASINI SI ECHIPAMENTE ELECTRICE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3415645](https://mediere.anofm.ro/app/module/mediere/job/3415645)
+- **Location:** România
 - **Status:** scraped
