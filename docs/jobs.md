@@ -10,11 +10,18 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-11-01 |
+| Last Scraped | 2026-11-02 |
 
-## Current Job Listings (20)
+## Current Job Listings (21)
 
-_Generated: 2026-11-01T12:18:15.040Z_
+_Generated: 2026-11-02T14:11:48.756Z_
+
+### Accounting Trainee (full-time)
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Accounting-Trainee--full-time-_R-2026040434](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Accounting-Trainee--full-time-_R-2026040434)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
 
 ### T&E Trainee with Italian
 
