@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-11-03 |
+| Last Scraped | 2026-11-04 |
 
-## Current Job Listings (20)
+## Current Job Listings (19)
 
-_Generated: 2026-11-03T13:14:38.501Z_
+_Generated: 2026-11-04T13:28:17.796Z_
 
 ### Accounting Trainee (full-time)
 
@@ -91,13 +91,6 @@ _Generated: 2026-11-03T13:14:38.501Z_
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electromecanic_R-2026022719](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electromecanic_R-2026022719)
 - **Work Mode:** on-site
 - **Location:** Zalău
-- **Status:** scraped
-
-### S2P Transformation Manager
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/S2P-Transformation-Manager_R-2026033729](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/S2P-Transformation-Manager_R-2026033729)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
 - **Status:** scraped
 
 ### (SWE) Senior General Ledger Accountant
