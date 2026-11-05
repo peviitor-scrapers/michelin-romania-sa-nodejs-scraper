@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-11-04 |
+| Last Scraped | 2026-11-05 |
 
-## Current Job Listings (19)
+## Current Job Listings (17)
 
-_Generated: 2026-11-04T13:28:17.796Z_
+_Generated: 2026-11-05T13:42:49.064Z_
 
 ### Accounting Trainee (full-time)
 
@@ -91,20 +91,6 @@ _Generated: 2026-11-04T13:28:17.796Z_
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electromecanic_R-2026022719](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electromecanic_R-2026022719)
 - **Work Mode:** on-site
 - **Location:** Zalău
-- **Status:** scraped
-
-### (SWE) Senior General Ledger Accountant
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--SWE--Senior-General-Ledger-Accountant_R-2026034622](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--SWE--Senior-General-Ledger-Accountant_R-2026034622)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### (NLD) Experienced General Ledger Accountant
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--NLD--TUR--Experienced-General-Ledger-AccountantExperienced-General-Ledger-Accountant_R-2026038320](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--NLD--TUR--Experienced-General-Ledger-AccountantExperienced-General-Ledger-Accountant_R-2026038320)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
 - **Status:** scraped
 
 ### PROFILATOR PRODUSE DIN CAUCIUC
