@@ -10,15 +10,29 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-11-05 |
+| Last Scraped | 2026-11-06 |
 
 ## Current Job Listings (17)
 
-_Generated: 2026-11-05T13:42:49.064Z_
+_Generated: 2026-11-06T13:26:30.647Z_
 
 ### Accounting Trainee (full-time)
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Accounting-Trainee--full-time-_R-2026040434](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Accounting-Trainee--full-time-_R-2026040434)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### HR Administrator with French
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Administrator-with-French_R-2026041484](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Administrator-with-French_R-2026041484)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Training Administration Trainee with French
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Training-Administration-Trainee--French---English-_R-2026041108](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Training-Administration-Trainee--French---English-_R-2026041108)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
@@ -93,21 +107,9 @@ _Generated: 2026-11-05T13:42:49.064Z_
 - **Location:** Zalău
 - **Status:** scraped
 
-### PROFILATOR PRODUSE DIN CAUCIUC
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3434097](https://mediere.anofm.ro/app/module/mediere/job/3434097)
-- **Location:** România
-- **Status:** scraped
-
 ### CONFECTIONER DE PRODUSE INDUSTRIALE DIN CAUCIUC
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3434083](https://mediere.anofm.ro/app/module/mediere/job/3434083)
-- **Location:** România
-- **Status:** scraped
-
-### PROFILATOR PRODUSE DIN CAUCIUC
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3434073](https://mediere.anofm.ro/app/module/mediere/job/3434073)
 - **Location:** România
 - **Status:** scraped
 
