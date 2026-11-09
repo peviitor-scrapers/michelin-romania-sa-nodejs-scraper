@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-11-08 |
+| Last Scraped | 2026-11-09 |
 
 ## Current Job Listings (18)
 
-_Generated: 2026-11-08T12:26:09.083Z_
+_Generated: 2026-11-09T14:41:24.058Z_
 
 ### Accounting Trainee (full-time)
 
@@ -79,6 +79,13 @@ _Generated: 2026-11-08T12:26:09.083Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
+### Electromecanic
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electromecanic_R-2026022719](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electromecanic_R-2026022719)
+- **Work Mode:** on-site
+- **Location:** Zalău
+- **Status:** scraped
+
 ### Customs & Digital Process Engineering Lead
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customs---Digital-Process-Engineering-Lead_R-2026040111-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customs---Digital-Process-Engineering-Lead_R-2026040111-1)
@@ -96,13 +103,6 @@ _Generated: 2026-11-08T12:26:09.083Z_
 ### Operator producție, Zalău
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Operator-produc-ie--Zalu_R-2023012502](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Operator-produc-ie--Zalu_R-2023012502)
-- **Work Mode:** on-site
-- **Location:** Zalău
-- **Status:** scraped
-
-### Electromecanic
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electromecanic_R-2026022719](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electromecanic_R-2026022719)
 - **Work Mode:** on-site
 - **Location:** Zalău
 - **Status:** scraped
