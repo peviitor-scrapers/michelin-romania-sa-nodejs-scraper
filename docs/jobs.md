@@ -10,11 +10,18 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-11-12 |
+| Last Scraped | 2026-11-13 |
 
 ## Current Job Listings (18)
 
-_Generated: 2026-11-12T14:14:37.459Z_
+_Generated: 2026-11-13T13:37:50.452Z_
+
+### Future Opportunities – Top Talents
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Future-Opportunities---Career-Fair-Submissions_R-2025037494](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Future-Opportunities---Career-Fair-Submissions_R-2025037494)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
 
 ### Accounting Trainee (full-time)
 
@@ -128,11 +135,5 @@ _Generated: 2026-11-12T14:14:37.459Z_
 ### ELECTROMECANIC MASINI SI ECHIPAMENTE ELECTRICE
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3434041](https://mediere.anofm.ro/app/module/mediere/job/3434041)
-- **Location:** România
-- **Status:** scraped
-
-### ELECTROMECANIC MASINI SI ECHIPAMENTE ELECTRICE
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3415645](https://mediere.anofm.ro/app/module/mediere/job/3415645)
 - **Location:** România
 - **Status:** scraped
