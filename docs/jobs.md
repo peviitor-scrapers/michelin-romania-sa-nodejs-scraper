@@ -10,18 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-11-15 |
+| Last Scraped | 2026-11-16 |
 
-## Current Job Listings (18)
+## Current Job Listings (16)
 
-_Generated: 2026-11-15T13:09:23.575Z_
-
-### Future Opportunities – Top Talents
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Future-Opportunities---Career-Fair-Submissions_R-2025037494](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Future-Opportunities---Career-Fair-Submissions_R-2025037494)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
+_Generated: 2026-11-16T14:17:14.168Z_
 
 ### Accounting Trainee (full-time)
 
@@ -44,23 +37,9 @@ _Generated: 2026-11-15T13:09:23.575Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Contract Manager with German
+### General Ledger Analyst
 
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Contract-Manager-with-German_R-2026038391](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Contract-Manager-with-German_R-2026038391)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Power Apps Developer
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/CLM-Developer--Power-Apps_R-2025035521](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/CLM-Developer--Power-Apps_R-2025035521)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Salesforce Developer
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Salesforce-Developer_R-2026005373](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Salesforce-Developer_R-2026005373)
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/General-Ledger-Analyst_R-2026040308-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/General-Ledger-Analyst_R-2026040308-1)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
@@ -112,6 +91,13 @@ _Generated: 2026-11-15T13:09:23.575Z_
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electromecanic_R-2026022719](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Zalau-Salaj/Electromecanic_R-2026022719)
 - **Work Mode:** on-site
 - **Location:** Zalău
+- **Status:** scraped
+
+### Senior Master Data Analyst
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Senior-Master-Data-Analyst_R-2026042672](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Senior-Master-Data-Analyst_R-2026042672)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
 - **Status:** scraped
 
 ### LABORANT DETERMINARI FIZICO-MECANICE
