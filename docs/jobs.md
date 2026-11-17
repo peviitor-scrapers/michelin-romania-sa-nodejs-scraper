@@ -10,22 +10,28 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-11-16 |
+| Last Scraped | 2026-11-17 |
 
 ## Current Job Listings (16)
 
-_Generated: 2026-11-16T14:17:14.168Z_
+_Generated: 2026-11-17T15:09:21.080Z_
 
-### Accounting Trainee (full-time)
+### undefined
 
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Accounting-Trainee--full-time-_R-2026040434](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Accounting-Trainee--full-time-_R-2026040434)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin)
+- **Location:** România
 - **Status:** scraped
 
 ### HR Administrator with French
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Administrator-with-French_R-2026041484](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Administrator-with-French_R-2026041484)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Trainee Procurement Officer with German or Italian
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Trainee-Procurement-Officer-with-German-or-Italian_R-2026042260](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Trainee-Procurement-Officer-with-German-or-Italian_R-2026042260)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
@@ -40,13 +46,6 @@ _Generated: 2026-11-16T14:17:14.168Z_
 ### General Ledger Analyst
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/General-Ledger-Analyst_R-2026040308-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/General-Ledger-Analyst_R-2026040308-1)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Connected Solutions Administrator with French
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Connected-Solutions-Administrator_R-2026037451](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Connected-Solutions-Administrator_R-2026037451)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
@@ -93,7 +92,7 @@ _Generated: 2026-11-16T14:17:14.168Z_
 - **Location:** Zalău
 - **Status:** scraped
 
-### Senior Master Data Analyst
+### Senior Master Data Analyst with FR & DE
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Senior-Master-Data-Analyst_R-2026042672](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Senior-Master-Data-Analyst_R-2026042672)
 - **Work Mode:** hybrid
