@@ -10,17 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-11-17 |
+| Last Scraped | 2026-11-18 |
 
-## Current Job Listings (16)
+## Current Job Listings (14)
 
-_Generated: 2026-11-17T15:09:21.080Z_
-
-### undefined
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin)
-- **Location:** România
-- **Status:** scraped
+_Generated: 2026-11-18T14:49:27.884Z_
 
 ### HR Administrator with French
 
@@ -92,6 +86,13 @@ _Generated: 2026-11-17T15:09:21.080Z_
 - **Location:** Zalău
 - **Status:** scraped
 
+### (NLD) Experienced General Ledger Accountant
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--NLD--TUR--Experienced-General-Ledger-AccountantExperienced-General-Ledger-Accountant_R-2026038320](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--NLD--TUR--Experienced-General-Ledger-AccountantExperienced-General-Ledger-Accountant_R-2026038320)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
 ### Senior Master Data Analyst with FR & DE
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Senior-Master-Data-Analyst_R-2026042672](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Senior-Master-Data-Analyst_R-2026042672)
@@ -99,26 +100,16 @@ _Generated: 2026-11-17T15:09:21.080Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### LABORANT DETERMINARI FIZICO-MECANICE
+### Junior AR Accountant
 
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3441049](https://mediere.anofm.ro/app/module/mediere/job/3441049)
-- **Location:** România
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Junior-AR-Accountant_R-2026043499](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Junior-AR-Accountant_R-2026043499)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
 - **Status:** scraped
 
-### CONFECTIONER DE PRODUSE INDUSTRIALE DIN CAUCIUC
+### Junior GL Accountant
 
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3434083](https://mediere.anofm.ro/app/module/mediere/job/3434083)
-- **Location:** România
-- **Status:** scraped
-
-### MECANIC UTILAJ
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3434054](https://mediere.anofm.ro/app/module/mediere/job/3434054)
-- **Location:** România
-- **Status:** scraped
-
-### ELECTROMECANIC MASINI SI ECHIPAMENTE ELECTRICE
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3434041](https://mediere.anofm.ro/app/module/mediere/job/3434041)
-- **Location:** România
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Junior-GL-Accountant_R-2026042700-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Junior-GL-Accountant_R-2026042700-1)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
 - **Status:** scraped
