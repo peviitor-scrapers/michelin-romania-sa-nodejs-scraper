@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-11-18 |
+| Last Scraped | 2026-11-19 |
 
-## Current Job Listings (14)
+## Current Job Listings (21)
 
-_Generated: 2026-11-18T14:49:27.884Z_
+_Generated: 2026-11-19T14:54:28.248Z_
 
 ### HR Administrator with French
 
@@ -54,6 +54,13 @@ _Generated: 2026-11-18T14:49:27.884Z_
 ### Procurement Officer with Italian
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Procurement-Officer-with-Italian_R-2026039812](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Procurement-Officer-with-Italian_R-2026039812)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Procurement Officer with Polish
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Procurement-Officer-with-Polish_R-2026042677-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Procurement-Officer-with-Polish_R-2026042677-1)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
@@ -112,4 +119,42 @@ _Generated: 2026-11-18T14:49:27.884Z_
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Junior-GL-Accountant_R-2026042700-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Junior-GL-Accountant_R-2026042700-1)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
+- **Status:** scraped
+
+### Experienced Accounts Payable Accountant with German
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Experienced-Accounts-Payable-Accountant-with-German_R-2026043531](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Experienced-Accounts-Payable-Accountant-with-German_R-2026043531)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Experienced Accounts Payable Accountant with French
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Experienced-Accounts-Payable-Accountant-with-French_R-2026043548](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Experienced-Accounts-Payable-Accountant-with-French_R-2026043548)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### LABORANT DETERMINARI FIZICO-MECANICE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3441049](https://mediere.anofm.ro/app/module/mediere/job/3441049)
+- **Location:** România
+- **Status:** scraped
+
+### CONFECTIONER DE PRODUSE INDUSTRIALE DIN CAUCIUC
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3434083](https://mediere.anofm.ro/app/module/mediere/job/3434083)
+- **Location:** România
+- **Status:** scraped
+
+### MECANIC UTILAJ
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3434054](https://mediere.anofm.ro/app/module/mediere/job/3434054)
+- **Location:** România
+- **Status:** scraped
+
+### ELECTROMECANIC MASINI SI ECHIPAMENTE ELECTRICE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3434041](https://mediere.anofm.ro/app/module/mediere/job/3434041)
+- **Location:** România
 - **Status:** scraped
