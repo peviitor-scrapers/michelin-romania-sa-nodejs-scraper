@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-11-19 |
+| Last Scraped | 2026-11-20 |
 
 ## Current Job Listings (21)
 
-_Generated: 2026-11-19T14:54:28.248Z_
+_Generated: 2026-11-20T14:35:09.276Z_
 
 ### HR Administrator with French
 
@@ -47,13 +47,6 @@ _Generated: 2026-11-19T14:54:28.248Z_
 ### Cost Analyst
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Cost-Analyst_R-2026036597](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Cost-Analyst_R-2026036597)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Procurement Officer with Italian
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Procurement-Officer-with-Italian_R-2026039812](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Procurement-Officer-with-Italian_R-2026039812)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
@@ -131,6 +124,13 @@ _Generated: 2026-11-19T14:54:28.248Z_
 ### Experienced Accounts Payable Accountant with French
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Experienced-Accounts-Payable-Accountant-with-French_R-2026043548](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Experienced-Accounts-Payable-Accountant-with-French_R-2026043548)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Experienced Accounts Receivable Accountant with German
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Experienced-Accounts-Receivable-Accountant-with-German_R-2026043689](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Experienced-Accounts-Receivable-Accountant-with-German_R-2026043689)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
