@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-11-20 |
+| Last Scraped | 2026-11-21 |
 
-## Current Job Listings (21)
+## Current Job Listings (22)
 
-_Generated: 2026-11-20T14:35:09.276Z_
+_Generated: 2026-11-21T13:53:26.482Z_
 
 ### HR Administrator with French
 
@@ -133,6 +133,12 @@ _Generated: 2026-11-20T14:35:09.276Z_
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Experienced-Accounts-Receivable-Accountant-with-German_R-2026043689](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Experienced-Accounts-Receivable-Accountant-with-German_R-2026043689)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
+- **Status:** scraped
+
+### ELECTROMECANIC MASINI SI ECHIPAMENTE ELECTRICE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3453475](https://mediere.anofm.ro/app/module/mediere/job/3453475)
+- **Location:** România
 - **Status:** scraped
 
 ### LABORANT DETERMINARI FIZICO-MECANICE
