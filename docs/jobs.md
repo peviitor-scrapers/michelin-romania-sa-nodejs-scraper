@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-11-22 |
+| Last Scraped | 2026-11-23 |
 
-## Current Job Listings (22)
+## Current Job Listings (23)
 
-_Generated: 2026-11-22T13:46:10.692Z_
+_Generated: 2026-11-23T16:49:51.276Z_
 
 ### HR Administrator with French
 
@@ -131,6 +131,13 @@ _Generated: 2026-11-22T13:46:10.692Z_
 ### Experienced Accounts Receivable Accountant with German
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Experienced-Accounts-Receivable-Accountant-with-German_R-2026043689](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Experienced-Accounts-Receivable-Accountant-with-German_R-2026043689)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Senior Master Data Analyst
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Senior-Master-Data-Analyst_R-2026043462](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Senior-Master-Data-Analyst_R-2026043462)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
