@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-11-23 |
+| Last Scraped | 2026-11-24 |
 
-## Current Job Listings (23)
+## Current Job Listings (25)
 
-_Generated: 2026-11-23T16:49:51.276Z_
+_Generated: 2026-11-24T16:42:03.893Z_
 
 ### HR Administrator with French
 
@@ -40,6 +40,20 @@ _Generated: 2026-11-23T16:49:51.276Z_
 ### General Ledger Analyst
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/General-Ledger-Analyst_R-2026040308-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/General-Ledger-Analyst_R-2026040308-1)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Connected Solutions Administrator with Spanish
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Connected-Solutions-Administrator-with-Spanish_R-2026043841](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Connected-Solutions-Administrator-with-Spanish_R-2026043841)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Connected Solutions Administrator with Portuguese and Spanish
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Connected-Solutions-Administrator-with-Portuguese-and-Spanish_R-2026043845](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Connected-Solutions-Administrator-with-Portuguese-and-Spanish_R-2026043845)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
