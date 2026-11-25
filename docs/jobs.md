@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-11-24 |
+| Last Scraped | 2026-11-25 |
 
-## Current Job Listings (25)
+## Current Job Listings (26)
 
-_Generated: 2026-11-24T16:42:03.893Z_
+_Generated: 2026-11-25T16:27:15.207Z_
 
 ### HR Administrator with French
 
@@ -68,6 +68,13 @@ _Generated: 2026-11-24T16:42:03.893Z_
 ### Procurement Officer with Polish
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Procurement-Officer-with-Polish_R-2026042677-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Procurement-Officer-with-Polish_R-2026042677-1)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
+### Connected Solutions Administrator with English
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Connected-Solutions-Administrator-with-English_R-2026043915](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Connected-Solutions-Administrator-with-English_R-2026043915)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
