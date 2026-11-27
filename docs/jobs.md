@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-11-26 |
+| Last Scraped | 2026-11-27 |
 
 ## Current Job Listings (26)
 
-_Generated: 2026-11-26T16:00:20.229Z_
+_Generated: 2026-11-27T15:49:12.096Z_
 
 ### HR Administrator with French
 
@@ -107,6 +107,13 @@ _Generated: 2026-11-26T16:00:20.229Z_
 - **Location:** Zalău
 - **Status:** scraped
 
+### Group Lean HR Project Manager
+
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Group-Lean-HR-Project-Manager_R-2026035614-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Group-Lean-HR-Project-Manager_R-2026035614-1)
+- **Work Mode:** hybrid
+- **Location:** Voluntari
+- **Status:** scraped
+
 ### (NLD) Experienced General Ledger Accountant
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--NLD--TUR--Experienced-General-Ledger-AccountantExperienced-General-Ledger-Accountant_R-2026038320](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/XMLNAME--NLD--TUR--Experienced-General-Ledger-AccountantExperienced-General-Ledger-Accountant_R-2026038320)
@@ -152,13 +159,6 @@ _Generated: 2026-11-26T16:00:20.229Z_
 ### Experienced Accounts Receivable Accountant with German
 
 - **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Experienced-Accounts-Receivable-Accountant-with-German_R-2026043689](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Experienced-Accounts-Receivable-Accountant-with-German_R-2026043689)
-- **Work Mode:** hybrid
-- **Location:** Voluntari
-- **Status:** scraped
-
-### Senior Master Data Analyst
-
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Senior-Master-Data-Analyst_R-2026043462](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Senior-Master-Data-Analyst_R-2026043462)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
