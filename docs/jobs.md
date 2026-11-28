@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. VOLUNTARI, ȘOS BUCUREŞTI-NORD, NR.10, GLOBAL CITY BUSINESS PARK. CLĂDIREA O1. ETAJ 3 ŞI ETAJ 2. CAMERA 1 |
 | Website | [https://www.michelin.ro](https://www.michelin.ro) |
 | Careers | [https://michelinhr.wd3.myworkdayjobs.com/Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
-| Last Scraped | 2026-11-27 |
+| Last Scraped | 2026-11-28 |
 
 ## Current Job Listings (26)
 
-_Generated: 2026-11-27T15:49:12.096Z_
+_Generated: 2026-11-28T14:44:46.543Z_
 
 ### HR Administrator with French
 
@@ -72,16 +72,16 @@ _Generated: 2026-11-27T15:49:12.096Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Connected Solutions Administrator with English
+### Customs & Digital Process Engineering Lead
 
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Connected-Solutions-Administrator-with-English_R-2026043915](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Connected-Solutions-Administrator-with-English_R-2026043915)
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customs---Digital-Process-Engineering-Lead_R-2026040111-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customs---Digital-Process-Engineering-Lead_R-2026040111-1)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
 
-### Customs & Digital Process Engineering Lead
+### Connected Solutions Administrator with English
 
-- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customs---Digital-Process-Engineering-Lead_R-2026040111-1](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Customs---Digital-Process-Engineering-Lead_R-2026040111-1)
+- **URL:** [https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Connected-Solutions-Administrator-with-English_R-2026043915](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Connected-Solutions-Administrator-with-English_R-2026043915)
 - **Work Mode:** hybrid
 - **Location:** Voluntari
 - **Status:** scraped
